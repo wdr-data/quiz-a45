@@ -108,29 +108,14 @@ Gut erkennen lässt sich die wirtschaftliche Bedeutung der A 45 außerhalb des B
 
 
 
-
-
-
-
-
-
-
-
-die Anschlussstelle Freudenberg täglich passieren. Wie viele sind es?
-a)
-b) 
-c) 9.209 (zum Vergleich: Dortmund Süd: 4.811)
-d)
-
-
 <QuizScore
 images={{
     0: "berthold-schneider-credit-jens-grossmann.jpg",
     2: "richard-wagner-und-freunde_twitter.jpg",
 }}
 texts={{
-    0: "Schade, das war wohl nix.",
-    2: "Gute Arbeit",
+    0-1: "Okay, Sie wisse zumindest, dass es die A45 gibt, sonst wären Sie ja nicht auf unser Quiz gestoßen. Wenn es dann aber um Infos rund um die Sauerlandlinie geht, wird es dünn. Kein Problem: Machen Sie das Quiz einfasch nochmal.",
+    2-3: "Respekt! Was die A45 angeht, sind Sie ein wahrer Experte. Wohnen Sie vielleicht sogar direkt an der Sauerlandlinie? Dann wünschen wir Ihnen in den kommenden Jahren gute Nerven. Zur Ablenkung können Sie dann ja einfach nochmal das Quiz machen.",
 }}
 />
 
