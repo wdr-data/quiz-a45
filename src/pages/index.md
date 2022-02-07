@@ -71,6 +71,21 @@ Insgesamt stehen **38** der insgesamt 60 großen Talbrücken der Sauerlandlinie 
 </Result>
 </Quiz>
 
+#### Brückensprengung
+Damit der Verkehr durch die Sanierungen möglichst wenig beeinträchtigt wird, sollen die neuen Brücken neben den alten gebaut werden. Diese werden dann gesprengt und die fertige neue Brücke an ihren Platz geschoben. An der Talbrücke Rinsdorf ist der erste Teil dieser Aktion am Wochenende von statten gegangen. 1.20 Kilogramm Sprengstoff waren nötig, um die Sprengung der bislang höchsten Brücke in Deutschland durchzuführen.
+
+<Quiz>
+<QuizImage src="Sprengung.jpg" alt="Die Talbrücke Rinsdorf bricht nach der Sprengung in sich zusammen, fotografiert von Rene Traut" />
+<Question>**Wie viele Löcher mussten in dei Talbrücke Rinsdorf gebohrt werden, um den Sprengstoff an den richtigen Stellen zur Explosion zu bringen?**</Question>
+<Answer>940 Löcher</Answer>
+<Answer>1080 Löcher</Answer>
+<Answer correct>1.850 Löcher</Answer>
+<Answer>2.300 Löcher</Answer>
+<Result>
+**1.850 Bohrlöcher** waren nötig, um die mehr als 70 Meter hohe und 485 Meter lange Brücke zum Einsturz zu bringen. 
+</Result>
+</Quiz>
+
 #### Verkehrbeslastung
 Welche Auswirkungen die Baumaßnahmen und die damit verbundenen Verkehrseinschränkungen haben werden, lässt sich am besten an der Zahl der Fahrzeuge ablesen, die täglich auf der A45 unterwegs sind. Natürlich unterscheidet sich - je nach Streckenabschnitt - die Zahl der Fahrzeuge, die durchschnittlich auf der A45 unterwegs sind.
 
