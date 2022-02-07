@@ -128,6 +128,21 @@ Um **12 Kilometer**. Von der reinen Strecke klingt das nicht viel. Anteilig verl
 </Result>
 </Quiz>
 
+#### Bier
+Je größer die Gütermengen sind, die sonst auf der A45 transportiert werden, desto mehr wirken sich die Verkehrsbehinderungen auf der Sauerlandlinie auf die einzelnen Unternehmen aus. Schon jetzt gaben zwei Drittel der Unternehmen, die an einer Umfrage der Südwestfälischen Industrie- und Handelskammer zu Hagen (SIHK) teilnahmen an, dass ihre Lieferketten durch die Sperrungen auf der A45 gestört seien. Unter anderem davon betroffen: Die fünftgrößte Bierbrauerei Deutschlands. Krombacher braute im Jahr 2021 5,8 Millionen Hektoliter Bier in seiner Brauerei in Kreutztal. Mit dieser Menge könnte man 235 50-Meter-Schwimmerbecken füllen.
+
+<Quiz>
+<QuizImage src="Krombacher.jpg" alt="Tausende Bierkästen stehen in einer Lagerhalle der Brauerei Krombacher, fotografiert von Karsten Schöne" />   
+<Question>**Wie viel Hektoliter Bier hat die Brauerei Krombacher 2021 über die A45 abtransportiert?**</Question>
+<Answer>Hektoliter</Answer>
+<Answer correct>Hektoliter</Answer>
+<Answer>Hektoliter</Answer>
+<Answer>Hektoliter</Answer>
+<Result>
+Hier kommt die Antwort von Krombacher hin!!!!!
+</Result>
+</Quiz>
+
 #### Pendler
 Aber nicht nur für den Transport von Waren sind die Verkehrsbeeinträchtigungen an der A45 eine Katastrophe. Bei einer Umfrage der Südwestfälischen Industrie- und Handelskammer zu Hagen (SIHK) unter ihren Mitgliedern, gaben 76 Prozent der Unternehmen an, dass ihre Mitarbeiter nun “eine deutlich längere Anfahrtszeit” hätten. Kein Wunder: Viele Pendler nutzen die A45. 
 
