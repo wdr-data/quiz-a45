@@ -110,8 +110,8 @@ Gut erkennen lässt sich die wirtschaftliche Bedeutung der A 45 außerhalb des B
 
 <QuizScore
 images={{
-    0: "berthold-schneider-credit-jens-grossmann.jpg",
-    2: "richard-wagner-und-freunde_twitter.jpg",
+    0: "Sprengung.jpg",
+    2: "WDR-Bild_258985.jpg",
 }}
 texts={{
     0-1: "Okay, Sie wisse zumindest, dass es die A45 gibt, sonst wären Sie ja nicht auf unser Quiz gestoßen. Wenn es dann aber um Infos rund um die Sauerlandlinie geht, wird es dünn. Kein Problem: Machen Sie das Quiz einfasch nochmal.",
