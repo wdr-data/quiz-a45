@@ -114,13 +114,9 @@ images={{
     2: "WDR-Bild_258985.jpg",
 }}
 texts={{
-    0-1: "Okay, Sie wisse zumindest, dass es die A45 gibt, sonst wären Sie ja nicht auf unser Quiz gestoßen. Wenn es dann aber um Infos rund um die Sauerlandlinie geht, wird es dünn. Kein Problem: Machen Sie das Quiz einfasch nochmal.",
+    0-1: "Okay, Sie wissen zumindest, dass es die A45 gibt, sonst wären Sie ja nicht auf unser Quiz gestoßen. Wenn es dann aber um Infos rund um die Sauerlandlinie geht, wird es eng. Kein Problem: Machen Sie das Quiz einfach noch einmal.",
     2-3: "Respekt! Was die A45 angeht, sind Sie ein wahrer Experte. Wohnen Sie vielleicht sogar direkt an der Sauerlandlinie? Dann wünschen wir Ihnen in den kommenden Jahren gute Nerven. Zur Ablenkung können Sie dann ja einfach nochmal das Quiz machen.",
 }}
 />
-
-Eiusmod duis anim consectetur velit. Do excepteur et officia ullamco labore in laborum qui. Amet dolor mollit nisi laborum fugiat dolor exercitation. Proident deserunt aliquip commodo elit dolor in deserunt magna sint duis veniam pariatur culpa. Adipisicing nisi pariatur irure laborum commodo consectetur. Nostrud eu aute sunt elit sit incididunt est ullamco esse excepteur. Eu amet proident pariatur adipisicing reprehenderit aute sint excepteur sint fugiat labore qui ex cillum.
-
-<Quote author="Cobra 11">Alarm!</Quote>
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
