@@ -3,11 +3,11 @@ title: 'Quiz A45'
 description: Alles was Sie schon immer über die A45 wissen wollten
 author: Jörn Kießler
 pub_date: '2022-02-10'
-heroImage: 'richard-wagner-und-freunde.jpg'
-heroAlt: 'Richard Wagner und seine Freunde'
-heroCredit: 'Richard Wagner und seine Freunde'
-sharingImageFacebook: 'richard-wagner-und-freunde_facebook.jpg'
-sharingImageTwitter: 'richard-wagner-und-freunde_twitter.jpg'
+heroImage: 'WDR-Bild_31392137.jpg'
+heroAlt: ''
+heroCredit: ''
+sharingImageFacebook: 'WDR-Bild_31392137.jpg'
+sharingImageTwitter: 'WDR-Bild_31392137.jpg'
 cg1: 'WDR'
 cg2: 'Data'
 cg3: 'Quiz'
@@ -22,21 +22,27 @@ import WdrPlayer from '../components/video/video.jsx'
 import { Link, LinkList } from '../components/link/link.jsx'
 import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore } from '../components/quiz/quiz.jsx'
 
-## Alles was Sie schon immer über die A45 wissen wollten
+## Brückensperrungen, Baustellen, Behinderungen
 
-# Quiz A45
+# A45-Quiz: Wie gut kennen Sie die Sauerlandlinie?
 
 Enim quis amet reprehenderit consectetur et ea cillum ea fugiat laborum deserunt ex mollit. Elit commodo anim ipsum Lorem qui. Enim dolore labore aliquip pariatur ut minim exercitation pariatur tempor veniam. Ea ad labore in ullamco voluptate deserunt exercitation minim.
 
+
+#### Autobahnkilometer in NRW
+Über fast 257 Kilometer verläuft die Sauerlandlinie von Dortmund bis zum Seligenstädter Dreieck bei Aschaffenburg.
+
+
 <Quiz>
-<QuizImage src="berthold-schneider-credit-jens-grossmann.jpg" alt="Der Wuppertaler Opernintendant Berthold Schneider, fotografiert von Jens Grossmann" />
-<Question>**Hier könnte ihre Frage stehen?**</Question>
-<Answer>Foobar</Answer>
-<Answer correct>42</Answer>
-<Answer>Richtige Antwort</Answer>
-<Answer>Hier klicken!</Answer>
+<QuizImage src="WDR-Bild_42225741.jpg" alt="Luftaufnahme der leeren Rahmede-Talbrücke bei Lüdenscheid, fotografiert von Kay-Helge Hercher" />
+<Question>**Wie viele Autobahnkilometer der A45 befinden sich in NRW?
+**</Question>
+<Answer>98 Kilometer</Answer>
+<Answer correct>126 Kilometer</Answer>
+<Answer>148 Kilometer</Answer>
+<Answer>230 Kilometer</Answer>
 <Result>
-Natürlich ist **42** die richtige Antwort. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Exakt **126** Kilometer misst die Strecke zwischen dem Autobahnkreuz Dortmund-Nordwest und der Stelle zwischen Wilnsdorf und Burbach, an der die A45 die Landesgrenze zu Rheinland-Pfalz überquert.
 </Result>
 </Quiz>
 
