@@ -72,13 +72,13 @@ Insgesamt stehen **38** der insgesamt 60 großen Talbrücken der Sauerlandlinie 
 </Quiz>
 
 #### Brückensprengung
-Damit der Verkehr durch die Sanierungen möglichst wenig beeinträchtigt wird, sollen die neuen Brücken neben den alten gebaut werden. Diese werden dann gesprengt und die fertige neue Brücke an ihren Platz geschoben. An der Talbrücke Rinsdorf ist der erste Teil dieser Aktion am Wochenende von statten gegangen. 1.20 Kilogramm Sprengstoff waren nötig, um die Sprengung der bislang höchsten Brücke in Deutschland durchzuführen.
+Damit der Verkehr durch die Sanierungen möglichst wenig beeinträchtigt wird, sollen die neuen Brücken neben den alten gebaut werden. Diese werden dann gesprengt und die fertige neue Brücke an ihren Platz geschoben. An der Talbrücke Rinsdorf ist der erste Teil dieser Aktion am Wochenende von statten gegangen. 120 Kilogramm Sprengstoff waren nötig, um die Sprengung der bislang höchsten Brücke in Deutschland durchzuführen.
 
 <Quiz>
 <QuizImage src="Sprengung.jpg" alt="Die Talbrücke Rinsdorf bricht nach der Sprengung in sich zusammen, fotografiert von Rene Traut" />
-<Question>**Wie viele Löcher mussten in dei Talbrücke Rinsdorf gebohrt werden, um den Sprengstoff an den richtigen Stellen zur Explosion zu bringen?**</Question>
+<Question>**Wie viele Löcher mussten in die Talbrücke Rinsdorf gebohrt werden, um den Sprengstoff an den richtigen Stellen zur Explosion zu bringen?**</Question>
 <Answer>940 Löcher</Answer>
-<Answer>1080 Löcher</Answer>
+<Answer>1.080 Löcher</Answer>
 <Answer correct>1.850 Löcher</Answer>
 <Answer>2.300 Löcher</Answer>
 <Result>
