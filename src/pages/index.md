@@ -65,22 +65,24 @@ Alle 60 großen Talbrücken an der A45 müssen abgerissen und neu gebaut werden.
 <Answer>16 Brücken</Answer>
 <Answer>27 Brücken</Answer>
 <Answer>38 Brücken</Answer>
-<Answer correct>49</Answer>
+<Answer correct>49 Brücken</Answer>
 <Result>
 Insgesamt stehen **38** der insgesamt 60 großen Talbrücken der Sauerlandlinie in NRW. Die größte von ihnen ist die Sigtalbrücke. Sie spannt sich in einer Höhe von 100 Meter über die Sieg bei Eiserfeld und misst 1.050 Meter. Auch sie wird ersetzt werden müssen. Den Beginn der Arbeiten peilt die Autobahn Westfalen GmbH für 2027 an. Bis 2035 soll der Neubau stehen.
 </Result>
 </Quiz>
 
-Mollit consequat voluptate dolore incididunt officia ea ut id non in ut et. Sint officia aute irure dolore. Aliquip occaecat dolore sint sint Lorem magna officia id velit enim non labore. Laborum ea commodo laborum proident reprehenderit minim enim incididunt id adipisicing Lorem.
+#### Verkehrbeslastung
+Welche Auswirkungen die Baumaßnahmen und die damit verbundenen Verkehrseinschränkungen haben werden, lässt sich am besten an der Zahl der Fahrzeuge ablesen, die täglich auf der A45 unterwegs sind. Dabei unterscheiden sich die jeweiligen Streckenabschnitte natürlich.
 
 <Quiz>
-<Question>**Hier könnte ihre Frage stehen?**</Question>
-<Answer>Richtige Antwort</Answer>
-<Answer>Hier klicken!</Answer>
-<Answer correct>42</Answer>
-<Answer>Foobar</Answer>
+<QuizImage src="WDR-Bild_35505043.jpg" alt="Aufnahme der alten Lennetalbrücke mit Verkehr und der Neukonstruktion direkt daneben, fotografiert von Ina Fassbender" />   
+<Question>**Wo wurden im Jahr 2019 die meisten Fahrzeuge gezählt?**</Question>
+<Answer correct>Schwerte-Wandhofen </Answer>
+<Answer>Dortmund-Marten</Answer>
+<Answer>Lüdenscheid Nord</Answer>
+<Answer>Freudenberg</Answer>
 <Result>
-Natürlich ist **42** die richtige Antwort.
+Die richtige Antwort ist **Schwerte Wandhofen**. Durchschnittlich passierten 89.545 Fahrzeuge täglich die dauerhaft eingerichtete Zählstelle von Straßen.NRW nahe dem Westhofener Kreuz.
 </Result>
 </Quiz>
 
