@@ -24,7 +24,7 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 ## Brückensperrungen, Baustellen, Behinderungen
 
-# A45-Quiz: Wie gut kennen Sie die Sauerlandlinie?
+# A45-Quiz: So wichtig ist die Sauerlandlinie für ganz NRW
 
 
 Der Schock war groß, als die Autobahn GmbH Westfalen Ende Januar erklärte, dass alle 60 großen Talbrücken auf der A45 in den kommenden Jahren ersetzt werden müssen. Bereits Anfang Dezember wurde die Sauerlandlinie bei Lüdenscheid komplett für den Verkehr gesperrt. Der Grund: Die Rahmede-Talbrücke war so marode, dass sie bei weiterer Belastung hätte umkippen können. Die Folge: Verkehrschaos rund um Lüdenscheid, genervte Anwohner, eine ächzende Wirtschaft. 
