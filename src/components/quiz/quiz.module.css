@@ -262,7 +262,7 @@ button .icon svg {
 
 .score .scorePost {
   display: block;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   text-align: center;
   padding: 0 1rem;
 }
@@ -297,5 +297,17 @@ button .icon svg {
   .score .scoreNumbers {
     margin-top: -2.5rem;
     margin-bottom: -2rem;
+  }
+
+  .score .scoreCorrect {
+    font-size: 6rem;
+  }
+
+  .score .scoreMax {
+    font-size: 3rem;
+  }
+
+  .score .scorePost {
+    font-size: 1.2rem;
   }
 }
