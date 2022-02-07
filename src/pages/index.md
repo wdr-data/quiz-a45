@@ -72,7 +72,7 @@ Insgesamt stehen **38** der insgesamt 60 großen Talbrücken der Sauerlandlinie 
 </Quiz>
 
 #### Verkehrbeslastung
-Welche Auswirkungen die Baumaßnahmen und die damit verbundenen Verkehrseinschränkungen haben werden, lässt sich am besten an der Zahl der Fahrzeuge ablesen, die täglich auf der A45 unterwegs sind. Dabei unterscheiden sich die jeweiligen Streckenabschnitte natürlich.
+Welche Auswirkungen die Baumaßnahmen und die damit verbundenen Verkehrseinschränkungen haben werden, lässt sich am besten an der Zahl der Fahrzeuge ablesen, die täglich auf der A45 unterwegs sind. Natürlich unterscheidet sich - je nach Streckenabschnitt - die Zahl der Fahrzeuge, die durchschnittlich auf der A45 unterwegs sind.
 
 <Quiz>
 <QuizImage src="WDR-Bild_35505043.jpg" alt="Aufnahme der alten Lennetalbrücke mit Verkehr und der Neukonstruktion direkt daneben, fotografiert von Ina Fassbender" />   
@@ -86,7 +86,42 @@ Die richtige Antwort ist **Schwerte Wandhofen**. Durchschnittlich passierten 89.
 </Result>
 </Quiz>
 
-Aute eu ut ut Lorem tempor dolore velit ullamco. Proident dolor qui reprehenderit nulla exercitation quis cillum. Nulla consectetur ipsum non tempor culpa eiusmod tempor eu Lorem eu culpa Lorem. Nulla cillum officia Lorem sunt mollit excepteur. Dolore laboris velit amet proident magna in irure.
+#### Sattelschlepper
+Gerade die Industrie in Südwestfalen, wo viele Unternehmen große Teile herstellen, die dann mit Lastwagen oder sogar Schwerlasttransportern befördert werden, hofft darauf, dass die neue A45 schnell fertig wird. Denn schon jetzt müssen die Lkw über Bundes- und Landesstraßen - und damit auch durch Gemeinden mit Anwohnern - fahren, um beispielsweise die Binnenhäfen in Duisburg oder Gelsenkirchen zu erreichen.
+
+Gut erkennen lässt sich die wirtschaftliche Bedeutung der A 45 außerhalb des Ballungsraumes Ruhrgebiet auch an der Zahl der Sattelschlepper, die jeden Tag auf der Sauerlandlinie in Südwestfalen unterwegs sind.
+
+<Quiz>
+<QuizImage src="WDR-Bild_34850753.jpg" alt="Luftaufnahme eines Parkplatzes an der A45 bei Freudenberg, auf dem zahlreiche Lastwagen geparkt haben, fotografiert von Arnulf Stoffel" />   
+<Question>**Wie viele Sattelschlepper haben 2019 täglich die Anschlusstelle Freudenberg passiert?**</Question>
+<Answer>4.347 Sattelschlepper</Answer>
+<Answer>6.099 Sattelschlepper</Answer>
+<Answer>7.893 Sattelschlepper</Answer>
+<Answer correct>9.209 Sattelschlepper</Answer>
+<Result>
+**9.209 Sattelschlepper** passierten nach Informationen von Straßen.NRW im Durchschnitt jeden Tag die Anschlusstelle Freudenberg. In der Rechnung enthalten sind allerdings Sonn- und Feiertage, also die Tage, an denen LKW nur mit einer Sondergenehmigung fahren dürfen. Die Belastung an Werktagen ist daher aller voraussicht nach noch wesentlich höher.
+</Result>
+</Quiz>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+die Anschlussstelle Freudenberg täglich passieren. Wie viele sind es?
+a)
+b) 
+c) 9.209 (zum Vergleich: Dortmund Süd: 4.811)
+d)
+
 
 <QuizScore
 images={{
