@@ -60,6 +60,7 @@ Exakt **126** Kilometer misst die Strecke zwischen dem Autobahnkreuz Dortmund-No
 Alle 60 großen Talbrücken an der A45 müssen abgerissen und neu gebaut werden.
 
 <Quiz>
+<QuizImage src="Siegtalbruecke.jpg" alt="Luftaufnahme der Siegtalbrücke Eiserfeld, fotografiert von Hans Blossey" />
 <Question>**Wie viele große Talbrücken stehen auf NRW-Gebiet?**</Question>
 <Answer>16 Brücken</Answer>
 <Answer>27 Brücken</Answer>
