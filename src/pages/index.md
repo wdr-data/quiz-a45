@@ -26,12 +26,11 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 # A45-Quiz: So wichtig ist die Sauerlandlinie für ganz NRW
 
-
-Der Schock war groß, als die Autobahn GmbH Westfalen Ende Januar erklärte, dass alle 60 großen Talbrücken auf der A45 in den kommenden Jahren ersetzt werden müssen. Bereits Anfang Dezember wurde die Sauerlandlinie bei Lüdenscheid komplett für den Verkehr gesperrt. Der Grund: Die Rahmede-Talbrücke war so marode, dass sie bei weiterer Belastung hätte umkippen können. Die Folge: Verkehrschaos rund um Lüdenscheid, genervte Anwohner, eine ächzende Wirtschaft. 
+Die Nachricht war ein Schock für ganz NRW: Alle 60 großen Talbrücken auf der A45 müssen in den kommenden Jahren ersetzt werden! Und damit kommt eine nie dagewesene Belastung für die Menschen und die Wirtschaft zu - nicht nur im Sauerland. 
 
 <Link title="An der A45 müssen alle 60 Brücken ersetzt werden" href="https://www1.wdr.de/nachrichten/bruecken-ersetzen-a45-sauerlandlinie-100.html" />
 
-Genau das droht in den kommenden Jahren vielen Menschen und Unternehmen an der A45. Denn die Sauerlandlinie ist eine wichtige Strecke für Anwohner und Wirtschaft. Pendler nutzen sie, um zur Arbei zu kommen, tausende Tonnen Güter werden täglich darauf transportiert. Aber wie wichtig ist die A45 tatsächlich?
+Denn über die Sauerlandlinie rollen tagtäglich neben tausenden Pendler auch Waren und Güter. Sie werden entweder aus dem Ruhrgebiet in den Süden Deutschlands geliefert oder werden von Südwestfalen zu den Binnenhäfen in NRW transportiert, wo sie ihre Reise in den Rest der Welt antreten.
 
 ## Wie gut kennen Sie die A45?
 
@@ -41,7 +40,6 @@ Viel Spaß beim durchklicken und quizzen!
 
 #### Autobahnkilometer in NRW
 Über fast 257 Kilometer verläuft die Sauerlandlinie von Dortmund bis zum Seligenstädter Dreieck bei Aschaffenburg.
-
 
 <Quiz>
 <QuizImage src="Ueberblick.jpg" alt="Luftaufnahme der A45 bei Burbach im Hochsauerland, fotografiert von Hans Blossey" />
