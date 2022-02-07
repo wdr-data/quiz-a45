@@ -118,6 +118,25 @@ Gut erkennen lässt sich die wirtschaftliche Bedeutung der A 45 außerhalb des B
 </Result>
 </Quiz>
 
+#### Umwege
+Umwege
+Stellen wir uns vor, einer dieser Sattelschlepper kann wegen der Bauarbeiten nun nicht über die gesperrte A45 von Siegen nach Lüdenscheid fahren. Auf der Sauerlandlinie wären das von Anschlussstelle zu Anschlussstelle 54 km. Um wie viele Kilometer verlängert sich diese Strecke, wenn der Lkw-Fahrer nun auf Bundes - und Landstraßen ausweichen muss?
+
+<Quiz>
+<QuizImage src="Schild.jpg" alt="Schilder und Verkehrsplanken stehen auf der A45 vor der der gesperrten Talbrücke Rahmede, fotografiert von Karsten Schöne" />   
+<Question>**Um wie viele Kilometer verlängert sich die Strecke Siegen - Lüdenscheid, wenn ein Lkw-Fahrer auf Bundes - und Landstraßen ausweichen muss?**</Question>
+<Answer>5 Kilometer Sattelschlepper</Answer>
+<Answer correct>12 Kilometer</Answer>
+<Answer>27 Kilometer</Answer>
+<Answer>34 Kilometer</Answer>
+<Result>
+Um **12 Kilometer**. Von der reinen Strecke klingt das nicht viel. Anteilig verlängert sich die Distanz aber um ein Fünftel. Dadurch, dass der LKW auf Bundes- und Landstraßen aber langsamer voran kommt, braucht der Fahrer statt 30 Minuten gut eine Stunde - vorausgesetzt es gibt keine Staus.
+</Result>
+</Quiz>
+
+
+
+
 
 
 
