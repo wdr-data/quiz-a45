@@ -1,6 +1,6 @@
 ---
 title: 'A45-Quiz'
-description: 'Wie gut kennen Sie die Sauerlandlinie?'
+description: 'So wichtig ist die Sauerlandlinie für ganz NRW'
 author: Jörn Kießler
 pub_date: '2022-02-10'
 heroImage: 'WDR-Bild_246067.jpg'
@@ -131,8 +131,20 @@ Um **12 Kilometer**. Von der reinen Strecke klingt das nicht viel. Anteilig verl
 </Result>
 </Quiz>
 
+#### Pendler
+Aber nicht nur für den Transport von Waren sind die Verkehrsbeeinträchtigungen an der A45 eine Katastrophe. Bei einer Umfrage der Südwestfälischen Industrie- und Handelskammer zu Hagen (SIHK) unter ihren Mitgliedern, gaben 76 Prozent der Unternehmen an, dass ihre Mitarbeiter nun “eine deutlich längere Anfahrtszeit” hätten. Kein Wunder: Viele der Pendler, die in einem anderen Ort wohnen, als sie arbeiten, nutzen die A45. 
 
-
+<Quiz>
+<QuizImage src="Pendler.jpg" alt="Autos fahren auf der A45 in der Nähe der Ausfahrt Lüdenscheid Nord, fotografiert von Karsten Schöne" />   
+<Question>**Wie viele Menschen pendeln allein zwischen Gemeinden und Städten, die direkt an der A45 liegen?**</Question>
+<Answer></Answer>
+<Answer></Answer>
+<Answer></Answer>
+<Answer></Answer>
+<Result>
+Um **12 Kilometer**. Von der reinen Strecke klingt das nicht viel. Anteilig verlängert sich die Distanz aber um ein Fünftel. Dadurch, dass der LKW auf Bundes- und Landstraßen aber langsamer voran kommt, braucht der Fahrer statt 30 Minuten gut eine Stunde - vorausgesetzt es gibt keine Staus.
+</Result>
+</Quiz>
 
 
 
