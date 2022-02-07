@@ -136,13 +136,13 @@ Aber nicht nur für den Transport von Waren sind die Verkehrsbeeinträchtigungen
 
 <Quiz>
 <QuizImage src="Pendler.jpg" alt="Autos fahren auf der A45 in der Nähe der Ausfahrt Lüdenscheid Nord, fotografiert von Karsten Schöne" />   
-<Question>**Wie viele Menschen pendeln allein zwischen Gemeinden und Städten, die direkt an der A45 liegen?**</Question>
-<Answer></Answer>
-<Answer></Answer>
-<Answer></Answer>
-<Answer></Answer>
+<Question>**Wie viele Menschen sind im Jahr 2020 allein zwischen Gemeinden und Städten, die direkt an der A45 liegen, gependelt?**</Question>
+<Answer>Mehr als 58.000</Answer>
+<Answer>Mehr als 68.000</Answer>
+<Answer>Mehr als 78.000</Answer>
+<Answer correct>Mehr als 88.000</Answer>
 <Result>
-Um **12 Kilometer**. Von der reinen Strecke klingt das nicht viel. Anteilig verlängert sich die Distanz aber um ein Fünftel. Dadurch, dass der LKW auf Bundes- und Landstraßen aber langsamer voran kommt, braucht der Fahrer statt 30 Minuten gut eine Stunde - vorausgesetzt es gibt keine Staus.
+**88.090 Menschen** pendelten im Jahr 2020 nur zwischen Gemeinden und Städten, die direkt an der A45 liegen. Allein nach Dortmund fuhren nach Daten des Pendleratlas NRW jeden Tag fast 24.000 Menschen. Natürlich sind nicht alle mit dem Auto auf der A45 unterwegs. Viele nutzen für kürzere Strecken auch Bundes- und Landstraßen oder den ÖPNV. Doch mit zunehmenden Verkehrsproblemen auf der Sauerlandlinie, wird es auch genau dort voller werden.
 </Result>
 </Quiz>
 
