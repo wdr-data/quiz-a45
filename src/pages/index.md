@@ -56,16 +56,17 @@ Exakt **126** Kilometer misst die Strecke zwischen dem Autobahnkreuz Dortmund-No
 </Result>
 </Quiz>
 
-Proident mollit velit deserunt ad aliquip non ea non in et ex enim et occaecat. Mollit sunt nostrud laborum veniam qui sint nostrud ullamco culpa commodo ullamco. Consectetur elit incididunt nisi elit consequat laboris occaecat culpa aliquip. Quis dolor non aliquip duis id sint eu adipisicing exercitation ex Lorem ea. Exercitation reprehenderit ea anim sint dolore ea aliqua elit incididunt in elit nisi dolor occaecat. Proident nisi veniam mollit enim consectetur do fugiat labore qui.
+#### Brücken in NRW
+Alle 60 großen Talbrücken an der A45 müssen abgerissen und neu gebaut werden.
 
 <Quiz>
-<Question>**Hier könnte ihre Frage stehen?**</Question>
-<Answer>Hier klicken!</Answer>
-<Answer>Foobar</Answer>
-<Answer>Richtige Antwort</Answer>
-<Answer correct>42</Answer>
+<Question>**Wie viele große Talbrücken stehen auf NRW-Gebiet?**</Question>
+<Answer>16 Brücken</Answer>
+<Answer>27 Brücken</Answer>
+<Answer>38 Brücken</Answer>
+<Answer correct>49</Answer>
 <Result>
-Natürlich ist **42** die richtige Antwort.
+Insgesamt stehen **38** der insgesamt 60 großen Talbrücken der Sauerlandlinie in NRW. Die größte von ihnen ist die Sigtalbrücke. Sie spannt sich in einer Höhe von 100 Meter über die Sieg bei Eiserfeld und misst 1.050 Meter. Auch sie wird ersetzt werden müssen. Den Beginn der Arbeiten peilt die Autobahn Westfalen GmbH für 2027 an. Bis 2035 soll der Neubau stehen.
 </Result>
 </Quiz>
 
