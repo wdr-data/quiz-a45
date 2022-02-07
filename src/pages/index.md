@@ -117,7 +117,6 @@ Gut erkennen lässt sich die wirtschaftliche Bedeutung der A 45 außerhalb des B
 </Quiz>
 
 #### Umwege
-Umwege
 Stellen wir uns vor, einer dieser Sattelschlepper kann wegen der Bauarbeiten nun nicht über die gesperrte A45 von Siegen nach Lüdenscheid fahren. Auf der Sauerlandlinie wären das von Anschlussstelle zu Anschlussstelle 54 km. Um wie viele Kilometer verlängert sich diese Strecke, wenn der Lkw-Fahrer nun auf Bundes - und Landstraßen ausweichen muss?
 
 <Quiz>
