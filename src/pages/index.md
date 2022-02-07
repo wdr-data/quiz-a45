@@ -125,7 +125,7 @@ Stellen wir uns vor, einer dieser Sattelschlepper kann wegen der Bauarbeiten nun
 <Quiz>
 <QuizImage src="Schild.jpg" alt="Schilder und Verkehrsplanken stehen auf der A45 vor der der gesperrten Talbrücke Rahmede, fotografiert von Karsten Schöne" />   
 <Question>**Um wie viele Kilometer verlängert sich die Strecke Siegen - Lüdenscheid, wenn ein Lkw-Fahrer auf Bundes - und Landstraßen ausweichen muss?**</Question>
-<Answer>5 Kilometer Sattelschlepper</Answer>
+<Answer>5 Kilometer</Answer>
 <Answer correct>12 Kilometer</Answer>
 <Answer>27 Kilometer</Answer>
 <Answer>34 Kilometer</Answer>
