@@ -44,7 +44,7 @@ Viel Spaß beim durchklicken und quizzen!
 
 
 <Quiz>
-<QuizImage src="WDR-Bild_42225741.jpg" alt="Luftaufnahme der leeren Rahmede-Talbrücke bei Lüdenscheid, fotografiert von Kay-Helge Hercher" />
+<QuizImage src="Ueberblick.jpg" alt="Luftaufnahme der A45 bei Burbach im Hochsauerland, fotografiert von Hans Blossey" />
 <Question>**Wie viele Autobahnkilometer der A45 befinden sich in NRW?
 **</Question>
 <Answer>98 Kilometer</Answer>
