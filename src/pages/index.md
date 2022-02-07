@@ -99,7 +99,7 @@ Gut erkennen lässt sich die wirtschaftliche Bedeutung der A 45 außerhalb des B
 <Answer>7.893 Sattelschlepper</Answer>
 <Answer correct>9.209 Sattelschlepper</Answer>
 <Result>
-**9.209 Sattelschlepper** passierten nach Informationen von Straßen.NRW im Durchschnitt jeden Tag die Anschlusstelle Freudenberg. In der Rechnung enthalten sind allerdings Sonn- und Feiertage, also die Tage, an denen LKW nur mit einer Sondergenehmigung fahren dürfen. Die Belastung an Werktagen ist daher aller voraussicht nach noch wesentlich höher.
+**9.209 Sattelschlepper** passierten nach Informationen von Straßen.NRW 2019 im Durchschnitt jeden Tag die Anschlusstelle Freudenberg. Dabei wurden Sonn- und Feiertage mitgerechnet, also Tage, an denen LKW nur mit einer Sondergenehmigung fahren dürfen. Die Belastung an Werktagen war daher aller Voraussicht nach noch wesentlich höher.
 </Result>
 </Quiz>
 
