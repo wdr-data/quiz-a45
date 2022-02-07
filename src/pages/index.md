@@ -30,11 +30,11 @@ Die Nachricht war ein Schock für ganz NRW: Alle 60 großen Talbrücken auf der 
 
 <Link title="An der A45 müssen alle 60 Brücken ersetzt werden" href="https://www1.wdr.de/nachrichten/bruecken-ersetzen-a45-sauerlandlinie-100.html" />
 
-Denn über die Sauerlandlinie rollen tagtäglich neben tausenden Pendler auch Waren und Güter. Sie werden entweder aus dem Ruhrgebiet in den Süden Deutschlands geliefert oder werden von Südwestfalen zu den Binnenhäfen in NRW transportiert, wo sie ihre Reise in den Rest der Welt antreten.
+Denn über die Sauerlandlinie rollen tagtäglich neben tausenden Pendler auch Waren und Güter. Sie werden entweder aus dem Ruhrgebiet in den Süden Deutschlands geliefert oder werden beispielsweise aus Südwestfalen zu den Binnenhäfen in NRW transportiert, wo sie ihre Reise in den Rest der Welt antreten.
 
 ## Wie gut kennen Sie die A45?
 
-Mit dem A45-Quiz finden Sie heraus, wie gut sie die Autobahn durch das Sauerland kennen, was sie über Südwestfalen und die dort ansässigen Unternehmen wissen und warum die drohenden Verkehrsbehinderungen nicht nur Anwohner und Wirtschaft in der Region treffen.
+Mit dem A45-Quiz finden Sie heraus, wie gut sie die Autobahn durch das Sauerland kennen, was sie über Südwestfalen wissen und warum die drohenden Verkehrsbehinderungen nicht nur Anwohner und Wirtschaft in der Region treffen.
 
 Viel Spaß beim durchklicken und quizzen!
 
@@ -70,7 +70,7 @@ Insgesamt stehen **38** der insgesamt 60 großen Talbrücken der Sauerlandlinie 
 </Quiz>
 
 #### Brückensprengung
-Damit der Verkehr durch die Sanierungen möglichst wenig beeinträchtigt wird, sollen die neuen Brücken neben den alten gebaut werden. Diese werden dann gesprengt und die fertige neue Brücke an ihren Platz geschoben. An der Talbrücke Rinsdorf ist der erste Teil dieser Aktion am Wochenende von statten gegangen. 120 Kilogramm Sprengstoff waren nötig, um die Sprengung der bislang höchsten Brücke in Deutschland durchzuführen.
+Für den Neubau der Brücken, müssen die maroden Bauwerke erst einmal weg. Viele von ihnen sollen gesprengt werden - so wie die Talbrücke Rinsdorf am vergangenen Wochenende. 120 Kilogramm Sprengstoff waren nötig, um die Sprengung der bislang höchsten Brücke in Deutschland durchzuführen.
 
 <Quiz>
 <QuizImage src="Sprengung.jpg" alt="Die Talbrücke Rinsdorf bricht nach der Sprengung in sich zusammen, fotografiert von Rene Traut" />
@@ -85,8 +85,7 @@ Damit der Verkehr durch die Sanierungen möglichst wenig beeinträchtigt wird, s
 </Quiz>
 
 #### Verkehrbelastung
-Welche Auswirkungen die Baumaßnahmen und die damit verbundenen Verkehrseinschränkungen haben werden, lässt sich am besten an der Zahl der Fahrzeuge ablesen, die täglich auf der A45 unterwegs sind. Natürlich unterscheidet sich - je nach Streckenabschnitt - die Zahl der Fahrzeuge, die durchschnittlich auf der A45 unterwegs sind.
-
+Welche Auswirkungen die Baumaßnahmen und die damit verbundenen Verkehrseinschränkungen haben werden, lässt sich am besten an der Zahl der Fahrzeuge ablesen, die täglich auf der A45 unterwegs sind.
 <Quiz>
 <QuizImage src="WDR-Bild_12184515.jpg" alt="Stau auf der A45 bei Hagen in Richtung Dortmund, fotografiert von Hans Blossey" />   
 <Question>**Wo wurden im Jahr 2019 die meisten Fahrzeuge gezählt?**</Question>
@@ -100,9 +99,7 @@ Die richtige Antwort ist **Schwerte Wandhofen**. Durchschnittlich passierten 89.
 </Quiz>
 
 #### Sattelschlepper
-Gerade die Industrie in Südwestfalen, wo viele Unternehmen große Teile herstellen, die dann mit Lastwagen oder sogar Schwerlasttransportern befördert werden, hofft darauf, dass die neue A45 schnell fertig wird. Denn schon jetzt müssen die Lkw über Bundes- und Landesstraßen - und damit auch durch Gemeinden mit Anwohnern - fahren, um beispielsweise die Binnenhäfen in Duisburg oder Gelsenkirchen zu erreichen.
-
-Gut erkennen lässt sich die wirtschaftliche Bedeutung der A 45 außerhalb des Ballungsraumes Ruhrgebiet auch an der Zahl der Sattelschlepper, die jeden Tag auf der Sauerlandlinie in Südwestfalen unterwegs sind.
+Gerade die Industrie in Südwestfalen hofft darauf, dass die neue A45 schnell fertig wird. Denn schon jetzt müssen die Lkw, die Güter aus der Wirtschaftsregion transportieren, auf Bundes- und Landstraßen ausweichen.
 
 <Quiz>
 <QuizImage src="WDR-Bild_34850753.jpg" alt="Luftaufnahme eines Parkplatzes an der A45 bei Freudenberg, auf dem zahlreiche Lastwagen geparkt haben, fotografiert von Arnulf Stoffel" />   
@@ -117,7 +114,7 @@ Gut erkennen lässt sich die wirtschaftliche Bedeutung der A 45 außerhalb des B
 </Quiz>
 
 #### Umwege
-Stellen wir uns vor, einer dieser Sattelschlepper kann wegen der Bauarbeiten nun nicht über die gesperrte A45 von Siegen nach Lüdenscheid fahren. Auf der Sauerlandlinie wären das von Anschlussstelle zu Anschlussstelle 54 km. Um wie viele Kilometer verlängert sich diese Strecke, wenn der Lkw-Fahrer nun auf Bundes - und Landstraßen ausweichen muss?
+Stellen wir uns vor, einer dieser Sattelschlepper kann wegen der Bauarbeiten nun nicht über die gesperrte A45 von Siegen nach Lüdenscheid fahren. Auf der Sauerlandlinie wären das von Anschlussstelle zu Anschlussstelle 54 km.
 
 <Quiz>
 <QuizImage src="Schild.jpg" alt="Schilder und Verkehrsplanken stehen auf der A45 vor der der gesperrten Talbrücke Rahmede, fotografiert von Karsten Schöne" />   
@@ -132,7 +129,7 @@ Um **12 Kilometer**. Von der reinen Strecke klingt das nicht viel. Anteilig verl
 </Quiz>
 
 #### Pendler
-Aber nicht nur für den Transport von Waren sind die Verkehrsbeeinträchtigungen an der A45 eine Katastrophe. Bei einer Umfrage der Südwestfälischen Industrie- und Handelskammer zu Hagen (SIHK) unter ihren Mitgliedern, gaben 76 Prozent der Unternehmen an, dass ihre Mitarbeiter nun “eine deutlich längere Anfahrtszeit” hätten. Kein Wunder: Viele der Pendler, die in einem anderen Ort wohnen, als sie arbeiten, nutzen die A45. 
+Aber nicht nur für den Transport von Waren sind die Verkehrsbeeinträchtigungen an der A45 eine Katastrophe. Bei einer Umfrage der Südwestfälischen Industrie- und Handelskammer zu Hagen (SIHK) unter ihren Mitgliedern, gaben 76 Prozent der Unternehmen an, dass ihre Mitarbeiter nun “eine deutlich längere Anfahrtszeit” hätten. Kein Wunder: Viele Pendler nutzen die A45. 
 
 <Quiz>
 <QuizImage src="Pendler.jpg" alt="Autos fahren auf der A45 in der Nähe der Ausfahrt Lüdenscheid Nord, fotografiert von Karsten Schöne" />   
