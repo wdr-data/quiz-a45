@@ -86,11 +86,11 @@ Damit der Verkehr durch die Sanierungen möglichst wenig beeinträchtigt wird, s
 </Result>
 </Quiz>
 
-#### Verkehrbeslastung
+#### Verkehrbelastung
 Welche Auswirkungen die Baumaßnahmen und die damit verbundenen Verkehrseinschränkungen haben werden, lässt sich am besten an der Zahl der Fahrzeuge ablesen, die täglich auf der A45 unterwegs sind. Natürlich unterscheidet sich - je nach Streckenabschnitt - die Zahl der Fahrzeuge, die durchschnittlich auf der A45 unterwegs sind.
 
 <Quiz>
-<QuizImage src="WDR-Bild_35505043.jpg" alt="Aufnahme der alten Lennetalbrücke mit Verkehr und der Neukonstruktion direkt daneben, fotografiert von Ina Fassbender" />   
+<QuizImage src="WDR-Bild_12184515.jpg" alt="Stau auf der A45 bei Hagen in Richtung Dortmund, fotografiert von Hans Blossey" />   
 <Question>**Wo wurden im Jahr 2019 die meisten Fahrzeuge gezählt?**</Question>
 <Answer correct>Schwerte-Wandhofen </Answer>
 <Answer>Dortmund-Marten</Answer>
