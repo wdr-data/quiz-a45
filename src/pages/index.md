@@ -33,7 +33,7 @@ Der Schock war groß, als die Autobahn GmbH Westfalen Ende Januar erklärte, das
 
 Genau das droht in den kommenden Jahren vielen Menschen und Unternehmen an der A45. Denn die Sauerlandlinie ist eine wichtige Strecke für Anwohner und Wirtschaft. Pendler nutzen sie, um zur Arbei zu kommen, tausende Tonnen Güter werden täglich darauf transportiert. Aber wie wichtig ist die A45 tatsächlich?
 
-## Wissen Sie...?
+## Wie gut kennen Sie die A45?
 
 Mit dem A45-Quiz finden Sie heraus, wie gut sie die Autobahn durch das Sauerland kennen, was sie über Südwestfalen und die dort ansässigen Unternehmen wissen und warum die drohenden Verkehrsbehinderungen nicht nur Anwohner und Wirtschaft in der Region treffen.
 
