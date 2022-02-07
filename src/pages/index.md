@@ -64,8 +64,8 @@ Alle 60 großen Talbrücken an der A45 müssen abgerissen und neu gebaut werden.
 <Question>**Wie viele große Talbrücken stehen auf NRW-Gebiet?**</Question>
 <Answer>16 Brücken</Answer>
 <Answer>27 Brücken</Answer>
-<Answer>38 Brücken</Answer>
-<Answer correct>49 Brücken</Answer>
+<Answer correct>38 Brücken</Answer>
+<Answer>49 Brücken</Answer>
 <Result>
 Insgesamt stehen **38** der insgesamt 60 großen Talbrücken der Sauerlandlinie in NRW. Die größte von ihnen ist die Sigtalbrücke. Sie spannt sich in einer Höhe von 100 Meter über die Sieg bei Eiserfeld und misst 1.050 Meter. Auch sie wird ersetzt werden müssen. Den Beginn der Arbeiten peilt die Autobahn Westfalen GmbH für 2027 an. Bis 2035 soll der Neubau stehen.
 </Result>
