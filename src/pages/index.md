@@ -114,8 +114,8 @@ images={{
     2: "WDR-Bild_258985.jpg",
 }}
 texts={{
-    0-1: "Okay, Sie wissen zumindest, dass es die A45 gibt, sonst wären Sie ja nicht auf unser Quiz gestoßen. Wenn es dann aber um Infos rund um die Sauerlandlinie geht, wird es eng. Kein Problem: Machen Sie das Quiz einfach noch einmal.",
-    2-3: "Respekt! Was die A45 angeht, sind Sie ein wahrer Experte. Wohnen Sie vielleicht sogar direkt an der Sauerlandlinie? Dann wünschen wir Ihnen in den kommenden Jahren gute Nerven. Zur Ablenkung können Sie dann ja einfach nochmal das Quiz machen.",
+    0: "Okay, Sie wissen zumindest, dass es die A45 gibt, sonst wären Sie ja nicht auf unser Quiz gestoßen. Wenn es dann aber um Infos rund um die Sauerlandlinie geht, wird es eng. Kein Problem: Machen Sie das Quiz einfach noch einmal.",
+    2: "Respekt! Was die A45 angeht, sind Sie ein wahrer Experte. Wohnen Sie vielleicht sogar direkt an der Sauerlandlinie? Dann wünschen wir Ihnen in den kommenden Jahren gute Nerven. Zur Ablenkung können Sie dann ja einfach nochmal das Quiz machen.",
 }}
 />
 
