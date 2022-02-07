@@ -26,8 +26,18 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 # A45-Quiz: Wie gut kennen Sie die Sauerlandlinie?
 
-Enim quis amet reprehenderit consectetur et ea cillum ea fugiat laborum deserunt ex mollit. Elit commodo anim ipsum Lorem qui. Enim dolore labore aliquip pariatur ut minim exercitation pariatur tempor veniam. Ea ad labore in ullamco voluptate deserunt exercitation minim.
 
+Der Schock war groß, als die Autobahn GmbH Westfalen Ende Januar erklärte, dass alle 60 großen Talbrücken auf der A45 in den kommenden Jahren ersetzt werden müssen. Bereits Anfang Dezember wurde die Sauerlandlinie bei Lüdenscheid komplett für den Verkehr gesperrt. Der Grund: Die Rahmede-Talbrücke war so marode, dass sie bei weiterer Belastung hätte umkippen können. Die Folge: Verkehrschaos rund um Lüdenscheid, genervte Anwohner, eine ächzende Wirtschaft. 
+
+<Link title="An der A45 müssen alle 60 Brücken ersetzt werden" href="https://www1.wdr.de/nachrichten/bruecken-ersetzen-a45-sauerlandlinie-100.html" />
+
+Genau das droht in den kommenden Jahren vielen Menschen und Unternehmen an der A45. Denn die Sauerlandlinie ist eine wichtige Strecke für Anwohner und Wirtschaft. Pendler nutzen sie, um zur Arbei zu kommen, tausende Tonnen Güter werden täglich darauf transportiert. Aber wie wichtig ist die A45 tatsächlich?
+
+## Wissen Sie...?
+
+Mit dem A45-Quiz finden Sie heraus, wie gut sie die Autobahn durch das Sauerland kennen, was sie über Südwestfalen und die dort ansässigen Unternehmen wissen und warum die drohenden Verkehrsbehinderungen nicht nur Anwohner und Wirtschaft in der Region treffen.
+
+Viel Spaß beim durchklicken und quizzen!
 
 #### Autobahnkilometer in NRW
 Über fast 257 Kilometer verläuft die Sauerlandlinie von Dortmund bis zum Seligenstädter Dreieck bei Aschaffenburg.
