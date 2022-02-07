@@ -1,6 +1,6 @@
 ---
-title: 'Quiz A45'
-description: Alles was Sie schon immer über die A45 wissen wollten
+title: 'A45-Quiz'
+description: 'Wie gut kennen Sie die Sauerlandlinie?'
 author: Jörn Kießler
 pub_date: '2022-02-10'
 heroImage: 'WDR-Bild_31392137.jpg'
