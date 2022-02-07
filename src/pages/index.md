@@ -3,7 +3,7 @@ title: 'A45-Quiz'
 description: 'Wie gut kennen Sie die Sauerlandlinie?'
 author: Jörn Kießler
 pub_date: '2022-02-10'
-heroImage: 'WDR-Bild_31392137.jpg'
+heroImage: 'WDR-Bild_246067.jpg'
 heroAlt: 'Blick auf die Talbrücke Beustenbach im Sauerland, fotografiert von Hans Blossey'
 heroCredit: ''
 sharingImageFacebook: 'WDR-Bild_246067.jpg'
