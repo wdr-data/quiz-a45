@@ -173,14 +173,14 @@ images={{
     0: "Sprengung.jpg",
     3: "WDR-Bild_41897031.jpg",
     6: "WDR-Bild_258985.jpg",      
-    9: "WDR-Bild_258985.jpg",
+    8: "WDR-Bild_258985.jpg",
            
 }}
 texts={{
     0: "Okay, Sie wissen zumindest, dass es die A45 gibt, sonst wären Sie ja nicht auf unser Quiz gestoßen. Wenn es dann aber um Infos rund um die Sauerlandlinie geht, wird es eng. Kein Problem: Machen Sie das Quiz einfach noch einmal.",
      3: "Nicht schlecht. Die Sauerlandlinie ist ihnen ein Begriff. Sie sind wohl häufiger auf der A45 zwischen Dortmund und Burbach unterwegs. Irgendwo abgefahren sind Sie aber noch nicht.",
      6: "Das war richtig gut! Sie haben sich offenbar schon näher mit der Region rund um die 'Königin der Autobahnen' beschäftigt. Ein bisschen Luft nach oben gibt's aber noch.",      
-    9: "Respekt! Was die A45 angeht, sind Sie ein wahrer Experte. Wohnen Sie vielleicht sogar direkt an der Sauerlandlinie? Dann wünschen wir Ihnen in den kommenden Jahren gute Nerven.",
+    8: "Respekt! Was die A45 angeht, sind Sie ein wahrer Experte. Wohnen Sie vielleicht sogar direkt an der Sauerlandlinie? Dann wünschen wir Ihnen in den kommenden Jahren gute Nerven.",
 }}
 />
 
