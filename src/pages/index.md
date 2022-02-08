@@ -72,6 +72,8 @@ Insgesamt stehen **38** der insgesamt 60 großen Talbrücken der Sauerlandlinie 
 #### Brückensprengung
 Für den Neubau der Brücken, müssen die maroden Bauwerke erst einmal weg. Viele von ihnen sollen gesprengt werden - so wie die Talbrücke Rinsdorf am vergangenen Wochenende. 120 Kilogramm Sprengstoff waren nötig, um die Sprengung der bislang höchsten Brücke in Deutschland durchzuführen.
 
+<Link title="Autobahnbrücke Rahmede wird gesprengt" href="https://www1.wdr.de/nachrichten/autobahnbruecke-rahmede-wird-gesprengt-100.html" />
+
 <Quiz>
 <QuizImage src="Sprengung.jpg" alt="Die Talbrücke Rinsdorf bricht nach der Sprengung in sich zusammen, fotografiert von Rene Traut" />
 <Question>**Wie viele Löcher mussten in die Talbrücke Rinsdorf gebohrt werden, um den Sprengstoff an den richtigen Stellen zur Explosion zu bringen?**</Question>
