@@ -26,15 +26,15 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 # A45-Quiz: So wichtig ist die Sauerlandlinie für ganz NRW
 
-Die Nachricht war ein Schock für ganz NRW: Alle 60 großen Talbrücken auf der A45 müssen in den kommenden Jahren ersetzt werden! Und damit kommt eine nie dagewesene Belastung für die Menschen und die Wirtschaft zu - nicht nur im Sauerland. 
+Die Nachricht war ein Schock für ganz NRW: Alle 60 großen Talbrücken auf der A45 müssen in den kommenden Jahren ersetzt werden! Und damit kommt eine nie dagewesene Belastung für die Menschen und die Wirtschaft zu - nicht nur in Südwestfalen. 
 
 <Link title="An der A45 müssen alle 60 Brücken ersetzt werden" href="https://www1.wdr.de/nachrichten/bruecken-ersetzen-a45-sauerlandlinie-100.html" />
 
-Denn über die Sauerlandlinie rollen tagtäglich neben tausenden Pendler auch Waren und Güter. Sie werden entweder aus dem Ruhrgebiet in den Süden Deutschlands geliefert oder werden beispielsweise aus Südwestfalen zu den Binnenhäfen in NRW transportiert, wo sie ihre Reise in den Rest der Welt antreten.
+Denn über die Sauerlandlinie rollen tagtäglich neben tausenden Pendler auch Waren und Güter. Sie werden entweder aus dem Ruhrgebiet in den Süden Deutschlands geliefert oder beispielsweise aus Südwestfalen zu den Binnenhäfen in NRW transportiert, wo sie ihre Reise in den Rest der Welt antreten.
 
 ## Wie gut kennen Sie die A45?
 
-Mit dem A45-Quiz finden Sie heraus, wie gut sie die Autobahn durch das Sauerland kennen, was sie über Südwestfalen wissen und warum die drohenden Verkehrsbehinderungen nicht nur Anwohner und Wirtschaft in der Region treffen.
+Mit dem A45-Quiz finden Sie heraus, wie gut Sie die "Königin der Autobahnen" kennen, was sie über Südwestfalen wissen und warum die drohenden Verkehrsbehinderungen nicht nur Anwohner und Wirtschaft in der Region treffen.
 
 Viel Spaß beim durchklicken und quizzen!
 
@@ -70,7 +70,7 @@ Insgesamt stehen **38** der insgesamt 60 großen Talbrücken der Sauerlandlinie 
 </Quiz>
 
 #### Brückensprengung
-Für den Neubau der Brücken, müssen die maroden Bauwerke erst einmal weg. Viele von ihnen sollen gesprengt werden - so wie die Talbrücke Rinsdorf am vergangenen Wochenende. 120 Kilogramm Sprengstoff waren nötig, um die Sprengung der bislang höchsten Brücke in Deutschland durchzuführen.
+Für den Neubau der Brücken, müssen die maroden Bauwerke erst einmal weg. Viele von ihnen sollen gesprengt werden - so wie die Talbrücke Rinsdorf Anfang Januar 2022. 120 Kilogramm Sprengstoff waren nötig, um die Sprengung der bislang höchsten Brücke in Deutschland durchzuführen.
 
 <Link title="Autobahnbrücke Rahmede wird gesprengt" href="https://www1.wdr.de/nachrichten/autobahnbruecke-rahmede-wird-gesprengt-100.html" />
 
@@ -101,7 +101,7 @@ Die richtige Antwort ist **Schwerte Wandhofen**. Durchschnittlich passierten 89.
 </Quiz>
 
 #### Sattelschlepper
-Gerade die Industrie in Südwestfalen hofft darauf, dass die neue A45 schnell fertig wird. Denn schon jetzt müssen die Lkw, die Güter aus der Wirtschaftsregion transportieren, auf Bundes- und Landstraßen ausweichen.
+Gerade die Industrie in Südwestfalen hofft darauf, dass die neue A45 schnell fertig wird. Denn schon jetzt müssen die LKW, die Güter in die Wirtschaftsregion liefern oder aus ihr abtransportieren, auf Bundes- und Landstraßen ausweichen.
 
 <Quiz>
 <QuizImage src="WDR-Bild_34850753.jpg" alt="Luftaufnahme eines Parkplatzes an der A45 bei Freudenberg, auf dem zahlreiche Lastwagen geparkt haben, fotografiert von Arnulf Stoffel" />   
@@ -116,14 +116,13 @@ Gerade die Industrie in Südwestfalen hofft darauf, dass die neue A45 schnell fe
 </Quiz>
 
 #### Umwege
-Stellen wir uns vor, einer dieser Sattelschlepper kann wegen der Bauarbeiten nun nicht über die gesperrte A45 von Siegen nach Lüdenscheid fahren. Auf der Sauerlandlinie wären das von Anschlussstelle zu Anschlussstelle 54 km.
+Will einer dieser Sattelschlepper von Siegen nach Lüdenscheid fahren, wären das auf der Sauerlandlinie von Anschlussstelle zu Anschlussstelle 54 km.
 
 <Link title="Sperrung der A45-Brücke: Lüdenscheid erstickt im Verkehr" href="https://www1.wdr.de/nachrichten/westfalen-lippe/luedenscheid-erstickt-im-verkehr-100.html" />
 
-
 <Quiz>
 <QuizImage src="Schild.jpg" alt="Schilder und Verkehrsplanken stehen auf der A45 vor der der gesperrten Talbrücke Rahmede, fotografiert von Karsten Schöne" />   
-<Question>**Um wie viele Kilometer verlängert sich die Strecke Siegen - Lüdenscheid, wenn ein Lkw-Fahrer auf Bundes - und Landstraßen ausweichen muss?**</Question>
+<Question>**Um wie viele Kilometer verlängert sich die Strecke Siegen - Lüdenscheid, wenn ein LKW-Fahrer auf Bundes - und Landstraßen ausweichen muss?**</Question>
 <Answer>5 Kilometer</Answer>
 <Answer correct>12 Kilometer</Answer>
 <Answer>27 Kilometer</Answer>
@@ -134,17 +133,17 @@ Um **12 Kilometer**. Von der reinen Strecke klingt das nicht viel. Anteilig verl
 </Quiz>
 
 #### Bier
-Je größer die Gütermengen sind, die sonst auf der A45 transportiert werden, desto mehr wirken sich die Verkehrsbehinderungen auf der Sauerlandlinie auf die einzelnen Unternehmen aus. Schon jetzt gaben zwei Drittel der Unternehmen, die an einer Umfrage der Südwestfälischen Industrie- und Handelskammer zu Hagen (SIHK) teilnahmen an, dass ihre Lieferketten durch die Sperrungen auf der A45 gestört seien. Unter anderem davon betroffen: Die fünftgrößte Bierbrauerei Deutschlands. Krombacher braute im Jahr 2021 5,8 Millionen Hektoliter Bier in seiner Brauerei in Kreutztal. 
+Je größer die Gütermengen sind, die sonst auf der A45 transportiert werden, desto mehr wirken sich die Verkehrsbehinderungen auf der Sauerlandlinie auf die einzelnen Unternehmen aus. Schon jetzt gaben zwei Drittel der Unternehmen, die an einer Umfrage der Südwestfälischen Industrie- und Handelskammer zu Hagen (SIHK) teilnahmen an, dass ihre Lieferketten durch die Sperrungen auf der A45 gestört seien. Unter anderem davon betroffen: Die fünftgrößte Bierbrauerei Deutschlands: Krombacher. Im Firmensitz in Kreuztal wurden im Jahr 2021 5,8 Millionen Hektoliter Bier gebraut. 
 
 <Quiz>
 <QuizImage src="Krombacher.jpg" alt="Tausende Bierkästen stehen in einer Lagerhalle der Brauerei Krombacher, fotografiert von Karsten Schöne" />   
-<Question>**Wie viele Hektoliter Bier hat die Brauerei Krombacher 2021 über die A45 abtransportiert?**</Question>
+<Question>**Wie viele Hektoliter Bier transportiert die Brauerei Krombacher pro Jahr über die A45?**</Question>
 <Answer>0,5 Mio. Hektoliter</Answer>
 <Answer>1,5 Mio. Hektoliter</Answer>
 <Answer correct>2,5 Mio. Hektoliter</Answer>
 <Answer>3,5 Mio. Hektoliter</Answer>
 <Result>
-**2,5 Millionen Hektoliter** Braugut werden laut Krombacher jedes Jahr über die A45 in Richtung Norden transportiert. Mit dieser Biermenge könnte man 100 Olympische 50-Meter-Schwimmbecken füllen. Dazu kommt, dass die Mehrwegflaschen, -kästen und -fässer auch wieder zurück ins Siegerland gebracht werden müssen. Aufgrund der Sperrungen auf der Sauerlandlinie rechnet Krombacher in den kommenden Jahren "mit jährlichen Zusatzaufwendungen im einstelligen Millionenbereich", so das Unternehmen.
+**2,5 Millionen Hektoliter** Braugut werden laut Krombacher jedes Jahr über die A45 in Richtung Norden transportiert. Mit dieser Biermenge könnte man 100 olympische 50-Meter-Schwimmbecken füllen. Dazu kommt, dass unzählige Mehrwegflaschen, -kästen und -fässer auch wieder zurück ins Siegerland gebracht werden müssen. Aufgrund der Sperrungen auf der Sauerlandlinie rechnet Krombacher in den kommenden Jahren "mit jährlichen Zusatzaufwendungen im einstelligen Millionenbereich", so das Unternehmen.
 </Result>
 </Quiz>
 
