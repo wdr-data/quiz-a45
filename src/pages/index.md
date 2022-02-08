@@ -1,6 +1,6 @@
 ---
-title: 'A45-Quiz'
-description: 'So wichtig ist die Sauerlandlinie für ganz NRW'
+title: 'Brückensperrungen, Baustellen, Behinderungen'
+description: 'A45-Quiz: So wichtig ist die Sauerlandlinie für ganz NRW'
 author: Jörn Kießler
 pub_date: '2022-02-10'
 heroImage: 'WDR-Bild_246067.jpg'
