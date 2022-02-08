@@ -118,6 +118,9 @@ Gerade die Industrie in Südwestfalen hofft darauf, dass die neue A45 schnell fe
 #### Umwege
 Stellen wir uns vor, einer dieser Sattelschlepper kann wegen der Bauarbeiten nun nicht über die gesperrte A45 von Siegen nach Lüdenscheid fahren. Auf der Sauerlandlinie wären das von Anschlussstelle zu Anschlussstelle 54 km.
 
+<Link title="Sperrung der A45-Brücke: Lüdenscheid erstickt im Verkehr" href="https://www1.wdr.de/nachrichten/westfalen-lippe/luedenscheid-erstickt-im-verkehr-100.html" />
+
+
 <Quiz>
 <QuizImage src="Schild.jpg" alt="Schilder und Verkehrsplanken stehen auf der A45 vor der der gesperrten Talbrücke Rahmede, fotografiert von Karsten Schöne" />   
 <Question>**Um wie viele Kilometer verlängert sich die Strecke Siegen - Lüdenscheid, wenn ein Lkw-Fahrer auf Bundes - und Landstraßen ausweichen muss?**</Question>
