@@ -139,10 +139,10 @@ Je größer die Gütermengen sind, die sonst auf der A45 transportiert werden, d
 <Quiz>
 <QuizImage src="Krombacher.jpg" alt="Tausende Bierkästen stehen in einer Lagerhalle der Brauerei Krombacher, fotografiert von Karsten Schöne" />   
 <Question>**Wie viele Hektoliter Bier hat die Brauerei Krombacher 2021 über die A45 abtransportiert?**</Question>
-<Answer>1 Mio. Hektoliter</Answer>
-<Answer>2 Mio. Hektoliter</Answer>
+<Answer>0,5 Mio. Hektoliter</Answer>
+<Answer>1,5 Mio. Hektoliter</Answer>
 <Answer correct>2,5 Mio. Hektoliter</Answer>
-<Answer>4 Mio. Hektoliter</Answer>
+<Answer>3,5 Mio. Hektoliter</Answer>
 <Result>
 **2,5 Millionen Hektoliter Braugut werden laut Krombacher jedes Jahr über die A45 in Richtung Norden transportiert. Mit dieser Biermenge könnte man 100 Olympische 50-Meter-Schwimmbecken füllen. Dazu kommt, dass die Mehrwegflaschen, -kästen und -fässer auch wieder zurück ins Siegerland gebracht werden müssen. Aufgrund der Sperrungen auf der Sauerlandlinie rechnet Krombacher in den kommenden Jahren "mit jährlichen Zusatzaufwendungen im einstelligen Millionenbereich", so das Unternehmen.
 </Result>
