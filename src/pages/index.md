@@ -50,7 +50,7 @@ Viel Spaß beim durchklicken und quizzen!
 <Answer>148 Kilometer</Answer>
 <Answer>230 Kilometer</Answer>
 <Result>
-Exakt **126** Kilometer misst die Strecke zwischen dem Autobahnkreuz Dortmund-Nordwest und der Stelle zwischen Wilnsdorf und Burbach, an der die A45 die Landesgrenze zu Rheinland-Pfalz überquert.
+Exakt **126 Kilometer** misst die Strecke zwischen dem Autobahnkreuz Dortmund-Nordwest und der Stelle zwischen Wilnsdorf und Burbach, an der die A45 die Landesgrenze zu Rheinland-Pfalz überquert.
 </Result>
 </Quiz>
 
@@ -144,7 +144,7 @@ Je größer die Gütermengen sind, die sonst auf der A45 transportiert werden, d
 <Answer correct>2,5 Mio. Hektoliter</Answer>
 <Answer>3,5 Mio. Hektoliter</Answer>
 <Result>
-**2,5 Millionen Hektoliter Braugut werden laut Krombacher jedes Jahr über die A45 in Richtung Norden transportiert. Mit dieser Biermenge könnte man 100 Olympische 50-Meter-Schwimmbecken füllen. Dazu kommt, dass die Mehrwegflaschen, -kästen und -fässer auch wieder zurück ins Siegerland gebracht werden müssen. Aufgrund der Sperrungen auf der Sauerlandlinie rechnet Krombacher in den kommenden Jahren "mit jährlichen Zusatzaufwendungen im einstelligen Millionenbereich", so das Unternehmen.
+**2,5 Millionen Hektoliter** Braugut werden laut Krombacher jedes Jahr über die A45 in Richtung Norden transportiert. Mit dieser Biermenge könnte man 100 Olympische 50-Meter-Schwimmbecken füllen. Dazu kommt, dass die Mehrwegflaschen, -kästen und -fässer auch wieder zurück ins Siegerland gebracht werden müssen. Aufgrund der Sperrungen auf der Sauerlandlinie rechnet Krombacher in den kommenden Jahren "mit jährlichen Zusatzaufwendungen im einstelligen Millionenbereich", so das Unternehmen.
 </Result>
 </Quiz>
 
