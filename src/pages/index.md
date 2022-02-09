@@ -169,7 +169,7 @@ Aber nicht nur für den Transport von Waren sind die Verkehrsbeeinträchtigungen
 
 <Quiz>
 <QuizImage src="Autobahn.jpg" alt="Autos fahren auf der A45 in der Nähe der Ausfahrt Lüdenscheid Nord, fotografiert von Karsten Schöne" />   
-<Question>**Wie viele Menschen sind im Jahr 2020 allein zwischen Gemeinden und Städten gependelt, die unmittelbar an der A45 liegen?**</Question>
+<Question>**Wie viele Menschen sind im Jahr 2020 täglich allein zwischen Gemeinden und Städten gependelt, die unmittelbar an der A45 liegen?**</Question>
 <Answer>Mehr als 58.000</Answer>
 <Answer>Mehr als 68.000</Answer>
 <Answer>Mehr als 78.000</Answer>
