@@ -34,7 +34,7 @@ button .icon svg {
   stroke: currentColor;
   fill: currentColor;
   vertical-align: top;
-  margin-top: 1px;
+  margin-top: 3.5px;
   transform: translateX(-25px);
   animation: fade-in 0.25s ease-in-out;
   animation-fill-mode: forwards;
