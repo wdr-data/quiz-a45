@@ -36,7 +36,7 @@ Und nicht nur sie: Alle 60 großen Talbrücken auf der A45 müssen in den kommen
 
 Denn über die Sauerlandlinie rollen tagtäglich neben tausenden Pendler auch Waren und Güter. Sie werden beispielsweise aus dem Ruhrgebiet in den Süden Deutschlands geliefert oder aus Südwestfalen zu den Binnenhäfen in NRW transportiert, wo sie ihre Reise in den Rest der Welt antreten.
 
-### Wie gut kennen Sie die A45?
+<Link title="A45: Die dauergesperrte Autobahn" href="https://www1.wdr.de/autobahn-sperrung-bruecke-100.html" />
 
 Mit dem A45-Quiz finden Sie heraus, wie gut Sie die  Sauerlandlinie kennen, was sie über Südwestfalen wissen und warum die Verkehrsbehinderungen nicht nur Anwohner und Wirtschaft in der Region treffen.
 
