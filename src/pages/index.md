@@ -149,7 +149,7 @@ Will einer dieser Sattelschlepper von Siegen nach Hagen fahren, wären das auf d
 <Answer>13 Kilometer</Answer>
 <Answer>18 Kilometer</Answer>
 <Result>
-Um **3 Kilometer**. Das hört sich erst einmal harmlos an. Aber dadurch, dass der Lkw vor Lüdenscheid ab- und einen Umweg fahren muss, verlängert sich die Fahrtzeit im besten Fall von 40 auf 55 Minuten. Im schlimmsten Fall braucht er mehr als doppelt so lange für die gesamte Strecke von Siegen nach Hagen.
+Um **3 Kilometer**. Das hört sich erst einmal harmlos an. Aber dadurch, dass der Lkw vor Lüdenscheid ab- und einen Umweg fahren muss, verlängert sich die Fahrtzeit laut Google Maps im besten Fall von 40 auf 55 Minuten. Im schlimmsten Fall braucht er mehr als doppelt so lange für die gesamte Strecke von Siegen nach Hagen.
 </Result>
 </Quiz>
 
