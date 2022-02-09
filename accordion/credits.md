@@ -13,5 +13,5 @@ Aufmacher-Bild: Mauritius Images / Hans Blossey
 
 ### Credits
 
-**Redaktion:** Axel Klauwer
+**Redaktion:** Axel Klauwer <br>
 **Programmierung:** Jannes Höke
