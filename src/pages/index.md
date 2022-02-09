@@ -34,7 +34,7 @@ Denn über die Sauerlandlinie rollen tagtäglich neben tausenden Pendler auch Wa
 
 ## Wie gut kennen Sie die A45?
 
-Mit dem A45-Quiz finden Sie heraus, wie gut Sie die "Königin der Autobahnen" kennen, was sie über Südwestfalen wissen und warum die Verkehrsbehinderungen nicht nur Anwohner und Wirtschaft in der Region treffen.
+Mit dem A45-Quiz finden Sie heraus, wie gut Sie die  Sauerlandlinie kennen, was sie über Südwestfalen wissen und warum die Verkehrsbehinderungen nicht nur Anwohner und Wirtschaft in der Region treffen.
 
 Viel Spaß beim Durchklicken und Quizzen!
 
@@ -111,7 +111,7 @@ Wo viele Fahrzeuge unterwegs sind, gibt es auch viele Staus. Im Jahr 2019 - also
 <Answer correct>4.641 Kilometer</Answer>
 <Answer>6.022 Kilometer</Answer>
 <Result>
-Auf insgesamt **4.641 Kilometern** staute sich im Jahr 2021 der Verkehr auf der A45.
+Auf insgesamt **4.641 Kilometern** staute sich im Jahr 2021 der Verkehr auf der "Königin der Autobahnen", wie die Sauleränder sie nennen.
 </Result>
 </Quiz>
 
@@ -168,8 +168,8 @@ Je größer die Gütermengen sind, die sonst auf der A45 transportiert werden, d
 Aber nicht nur für den Transport von Waren sind die Verkehrsbeeinträchtigungen an der A45 eine große Belastung. Auch tausende Pendler nutzen die Sauerlandlinie. 
 
 <Quiz>
-<QuizImage src="Pendler.jpg" alt="Autos fahren auf der A45 in der Nähe der Ausfahrt Lüdenscheid Nord, fotografiert von Karsten Schöne" />   
-<Question>**Wie viele Menschen sind im Jahr 2020 allein zwischen Gemeinden und Städten, die direkt an der A45 liegen, gependelt?**</Question>
+<QuizImage src="Autobahn.jpg" alt="Autos fahren auf der A45 in der Nähe der Ausfahrt Lüdenscheid Nord, fotografiert von Karsten Schöne" />   
+<Question>**Wie viele Menschen sind im Jahr 2020 allein zwischen Gemeinden und Städten, die unmittelbar an der A45 liegen, gependelt?**</Question>
 <Answer>Mehr als 58.000</Answer>
 <Answer>Mehr als 68.000</Answer>
 <Answer>Mehr als 78.000</Answer>
@@ -193,10 +193,10 @@ images={{
            
 }}
 texts={{
-    0: "Okay, Sie wissen zumindest, dass es die A45 gibt, sonst wären Sie ja nicht auf unser Quiz gestoßen. Wenn es dann aber um Infos rund um die Sauerlandlinie geht, wird es eng. Kein Problem: Machen Sie das Quiz einfach noch einmal.",
-     3: "Nicht schlecht. Die Sauerlandlinie ist ihnen ein Begriff. Sie sind wohl häufiger auf der A45 zwischen Dortmund und Burbach unterwegs. Irgendwo abgefahren sind Sie aber noch nicht.",
+    0: "Okay, Sie wissen zumindest, dass es die A45 gibt, das ist ja schonmal ein Anfang - aber ausbaufähig. Machen Sie das Quiz doch noch einmal!",
+     3: "Nicht schlecht. Die Sauerlandlinie ist Ihnen ein Begriff. Sie sind wohl häufiger auf der A45 zwischen Dortmund und Burbach unterwegs. Aber kann es sein, dass Sie bis jetzt noch nirgendwo abgefahren sind?",
      6: "Das war richtig gut! Sie haben sich offenbar schon näher mit der Region rund um die 'Königin der Autobahnen' beschäftigt. Ein bisschen Luft nach oben gibt's aber noch.",      
-    9: "Respekt! Was die A45 angeht, sind Sie ein wahrer Experte. Wohnen Sie vielleicht sogar direkt an der Sauerlandlinie? Dann wünschen wir Ihnen in den kommenden Jahren gute Nerven.",
+    9: "Respekt! Was die A45 angeht, sind Sie ein wahrer Experte. Wohnen Sie vielleicht sogar direkt an der Sauerlandlinie?",
 }}
 />
 
