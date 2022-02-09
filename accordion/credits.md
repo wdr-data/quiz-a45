@@ -1,16 +1,15 @@
 ### Bildrechte:
 
-Aufmacher-Bild: Mauritius Images / Hans Blossey
-
-1. Bild: Imago Stock & People / Hans Blossey
-2. Bild: picture alliance / ZB/euroluftbild.de / Hans Blossey
-3. Bild: dpa / Rene Traut
-4. Bild: dpa Picture-Alliance / euroluftbild.de/Hans Blossey
-5. Bild: dpa / Bernd Thissen
-6. Bild: dpa / Arnulf Stoffel
-7. Bild: WDR / Karsten Schöne
-8. Bild: WDR / Karsten Schöne <br/>
-9. Grafik: WDR / Alina Bilkis
+- Aufmacher-Bild: Mauritius Images / Hans Blossey
+- Bild: Imago Stock & People / Hans Blossey
+- Bild: picture alliance / ZB/euroluftbild.de / Hans Blossey
+- Bild: dpa / Rene Traut
+- Bild: dpa Picture-Alliance / euroluftbild.de/Hans Blossey
+- Bild: dpa / Bernd Thissen
+- Bild: dpa / Arnulf Stoffel
+- Bild: WDR / Karsten Schöne
+- Bild: WDR / Karsten Schöne <br/>
+- Grafik: WDR / Alina Bilkis
 
 ### Credits
 
