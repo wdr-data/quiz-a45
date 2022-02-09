@@ -26,7 +26,7 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 # A45-Quiz: So wichtig ist die Sauerlandlinie für ganz NRW
 
-Schlechte Nachrichten - nicht nur für NRW: Alle 60 großen Talbrücken auf der A45 müssen in den kommenden Jahren ersetzt werden! Und damit kommt eine extreme Belastung für die Menschen und die Wirtschaft zu - nicht nur in Südwestfalen. 
+Schlechte Nachrichten - nicht nur für Südwestfalen: Alle 60 großen Talbrücken auf der A45 müssen in den kommenden Jahren ersetzt werden! Und damit kommt eine extreme Belastung für die Menschen und die Wirtschaft zu - nicht nur in Südwestfalen. 
 
 <Link title="An der A45 müssen alle 60 Brücken ersetzt werden" href="https://www1.wdr.de/nachrichten/bruecken-ersetzen-a45-sauerlandlinie-100.html" />
 
