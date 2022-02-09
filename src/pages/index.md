@@ -172,7 +172,7 @@ Je größer die Gütermengen sind, die sonst auf der A45 transportiert werden, d
 Aber nicht nur für den Transport von Waren sind die Verkehrsbeeinträchtigungen an der A45 eine große Belastung. Auch tausende Pendler nutzen die Sauerlandlinie. 
 
 <Quiz>
-<QuizImage src="Autobahn.jpg" alt="Autos fahren auf der A45 in der Nähe der Ausfahrt Lüdenscheid Nord, fotografiert von Karsten Schöne." />   
+<QuizImage src="Autobahn.jpg" alt="Eine Grafik zeigt alle Gemeinden und Städte, die unmittelbar an die A45 angrenzen." />   
 <Question>**Wie viele Menschen sind im Jahr 2020 täglich allein zwischen Gemeinden und Städten gependelt, die unmittelbar an der A45 liegen?**</Question>
 <Answer>Mehr als 58.000</Answer>
 <Answer>Mehr als 68.000</Answer>
