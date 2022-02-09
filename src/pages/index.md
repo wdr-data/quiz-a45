@@ -26,7 +26,11 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 # A45-Quiz: So wichtig ist die Sauerlandlinie für ganz NRW
 
-Schlechte Nachrichten - nicht nur für Südwestfalen, sondern für ganz NRW: Nachdem die Rahmede-Talbrücke Anfang Dezember von heute auf morgen für den Verkehr gesperrt werden musste, weil sie so marode ist, dass kein Auto mehr darüber fahren darf, soll sie jetzt möglichst schnell abgerissen werden. Und nicht nur sie: Alle 60 großen Talbrücken auf der A45 müssen in den kommenden Jahren ersetzt werden. Und damit kommt eine extreme Belastung auf die Menschen und die Wirtschaft zu - nicht nur in Südwestfalen. 
+Schlechte Nachrichten - nicht nur für Südwestfalen, sondern für ganz NRW: Nachdem die Rahmede-Talbrücke Anfang Dezember von heute auf morgen für den Verkehr gesperrt werden musste, weil sie so marode ist, dass kein Auto mehr darüber fahren darf, soll sie jetzt möglichst schnell abgerissen werden. 
+
+<Link title="Fragen und Antworten zur A45-Rahmedetalbrücke" href="https://www1.wdr.de/nachrichten/westfalen-lippe/fragen-und-antworten-zur-A45-und-rahmedetalbruecke-100.html" />
+
+Und nicht nur sie: Alle 60 großen Talbrücken auf der A45 müssen in den kommenden Jahren ersetzt werden. Und damit kommt eine extreme Belastung auf die Menschen und die Wirtschaft zu - nicht nur in Südwestfalen. 
 
 <Link title="An der A45 müssen alle 60 Brücken ersetzt werden" href="https://www1.wdr.de/nachrichten/bruecken-ersetzen-a45-sauerlandlinie-100.html" />
 
