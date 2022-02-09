@@ -26,7 +26,7 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 # A45-Quiz: So wichtig ist die Sauerlandlinie für ganz NRW
 
-Die Nachricht war ein Schock für ganz NRW: Alle 60 großen Talbrücken auf der A45 müssen in den kommenden Jahren ersetzt werden! Und damit kommt eine nie dagewesene Belastung für die Menschen und die Wirtschaft zu - nicht nur in Südwestfalen. 
+Schlechte Nachrichten - nicht nur für NRW: Alle 60 großen Talbrücken auf der A45 müssen in den kommenden Jahren ersetzt werden! Und damit kommt eine extreme Belastung für die Menschen und die Wirtschaft zu - nicht nur in Südwestfalen. 
 
 <Link title="An der A45 müssen alle 60 Brücken ersetzt werden" href="https://www1.wdr.de/nachrichten/bruecken-ersetzen-a45-sauerlandlinie-100.html" />
 
@@ -34,9 +34,9 @@ Denn über die Sauerlandlinie rollen tagtäglich neben tausenden Pendler auch Wa
 
 ## Wie gut kennen Sie die A45?
 
-Mit dem A45-Quiz finden Sie heraus, wie gut Sie die "Königin der Autobahnen" kennen, was sie über Südwestfalen wissen und warum die drohenden Verkehrsbehinderungen nicht nur Anwohner und Wirtschaft in der Region treffen.
+Mit dem A45-Quiz finden Sie heraus, wie gut Sie die "Königin der Autobahnen" kennen, was sie über Südwestfalen wissen und warum die Verkehrsbehinderungen nicht nur Anwohner und Wirtschaft in der Region treffen.
 
-Viel Spaß beim durchklicken und quizzen!
+Viel Spaß beim Durchklicken und Quizzen!
 
 #### Autobahnkilometer in NRW
 Über fast 257 Kilometer verläuft die Sauerlandlinie von Dortmund bis zum Seligenstädter Dreieck bei Aschaffenburg.
@@ -50,7 +50,7 @@ Viel Spaß beim durchklicken und quizzen!
 <Answer>148 Kilometer</Answer>
 <Answer>230 Kilometer</Answer>
 <Result>
-Exakt **126 Kilometer** misst die Strecke zwischen dem Autobahnkreuz Dortmund-Nordwest und der Stelle zwischen Wilnsdorf und Burbach, an der die A45 die Landesgrenze zu Rheinland-Pfalz überquert.
+Exakt **126 Kilometer** misst die Strecke zwischen dem Autobahnkreuz Dortmund-Nordwest und der Stelle zwischen Wilnsdorf und Burbach, an der die A45 die Landesgrenze zu Hessen überquert.
 </Result>
 </Quiz>
 
@@ -65,12 +65,12 @@ Alle 60 großen Talbrücken an der A45 müssen abgerissen und neu gebaut werden.
 <Answer correct>38 Brücken</Answer>
 <Answer>49 Brücken</Answer>
 <Result>
-Insgesamt stehen **38** der insgesamt 60 großen Talbrücken der Sauerlandlinie in NRW. Die größte von ihnen ist die Siegtalbrücke. Sie spannt sich in einer Höhe von 100 Meter über die Sieg bei Eiserfeld und misst 1.050 Meter. Auch sie wird ersetzt werden müssen. Den Beginn der Arbeiten peilt die Autobahn Westfalen GmbH für 2027 an. Bis 2035 soll der Neubau stehen.
+Insgesamt stehen **38** der insgesamt 60 großen Talbrücken der Sauerlandlinie in NRW. Die größte von ihnen ist die Siegtalbrücke. Sie spannt sich in einer Höhe von 100 Metern über die Sieg bei Eiserfeld und misst 1.050 Meter. Auch sie wird ersetzt werden müssen. Den Beginn der Arbeiten peilt die Autobahn Westfalen GmbH für 2027 an. Bis 2035 soll der Neubau stehen.
 </Result>
 </Quiz>
 
 #### Brückensprengung
-Für den Neubau der Brücken, müssen die maroden Bauwerke erst einmal weg. Viele von ihnen sollen gesprengt werden - so wie die Talbrücke Rinsdorf Anfang Januar 2022. 120 Kilogramm Sprengstoff waren nötig, um die Sprengung der bislang höchsten Brücke in Deutschland durchzuführen.
+Für den Neubau der Brücken müssen die maroden Bauwerke erst einmal weg. Viele von ihnen sollen gesprengt werden - so wie die Talbrücke Rinsdorf Anfang Februar 2022. 120 Kilogramm Sprengstoff waren nötig, um die bislang höchsten gesprengte Brücke in Deutschland zum Einsturz zu bringen.
 
 <Link title="Autobahnbrücke Rahmede wird gesprengt" href="https://www1.wdr.de/nachrichten/autobahnbruecke-rahmede-wird-gesprengt-100.html" />
 
@@ -82,7 +82,7 @@ Für den Neubau der Brücken, müssen die maroden Bauwerke erst einmal weg. Viel
 <Answer correct>1.850 Löcher</Answer>
 <Answer>2.300 Löcher</Answer>
 <Result>
-**1.850 Bohrlöcher** waren nötig, um die mehr als 70 Meter hohe und 485 Meter lange Brücke zum Einsturz zu bringen. 
+**1.850 Bohrlöcher** waren nötig, um die mehr als 70 Meter hohe und 485 Meter lange Brücke zu sprengen. 
 </Result>
 </Quiz>
 
@@ -111,33 +111,33 @@ Gerade die Industrie in Südwestfalen hofft darauf, dass die neue A45 schnell fe
 <Answer>7.893 Sattelschlepper</Answer>
 <Answer correct>9.209 Sattelschlepper</Answer>
 <Result>
-**9.209 Sattelschlepper** passierten nach Informationen von Straßen.NRW 2019 im Durchschnitt jeden Tag die Anschlusstelle Freudenberg. Dabei wurden Sonn- und Feiertage mitgerechnet, also Tage, an denen LKW nur mit einer Sondergenehmigung fahren dürfen. Die Belastung an Werktagen war daher aller Voraussicht nach noch wesentlich höher.
+**9.209 Sattelschlepper** passierten nach Informationen von Straßen.NRW 2019 im Durchschnitt jeden Tag die Anschlusstelle Freudenberg. Dabei wurden Sonn- und Feiertage mitgerechnet, also Tage, an denen LKW nur mit einer Sondergenehmigung fahren dürfen. Die Belastung an Werktagen war daher vermutlich noch wesentlich höher.
 </Result>
 </Quiz>
 
 #### Umwege
-Will einer dieser Sattelschlepper von Siegen nach Lüdenscheid fahren, wären das auf der Sauerlandlinie von Anschlussstelle zu Anschlussstelle 54 km.
+Will einer dieser Sattelschlepper von Siegen nach Hagen fahren, wären das auf der Sauerlandlinie von Anschlussstelle zu Anschlussstelle 74 km. Da die Talbrücke Rahmede derzeit aber gesperrt ist und bald abgerissen werden soll, muss der Fahrer oder die Fahrerin Teile der Strecke über Bundes- und Landstraßen zurücklegen.
 
 <Link title="Sperrung der A45-Brücke: Lüdenscheid erstickt im Verkehr" href="https://www1.wdr.de/nachrichten/westfalen-lippe/luedenscheid-erstickt-im-verkehr-100.html" />
 
 <Quiz>
 <QuizImage src="Schild.jpg" alt="Schilder und Verkehrsplanken stehen auf der A45 vor der der gesperrten Talbrücke Rahmede, fotografiert von Karsten Schöne" />   
-<Question>**Um wie viele Kilometer verlängert sich die Strecke Siegen - Lüdenscheid, wenn ein LKW-Fahrer auf Bundes - und Landstraßen ausweichen muss?**</Question>
-<Answer>5 Kilometer</Answer>
-<Answer correct>12 Kilometer</Answer>
-<Answer>27 Kilometer</Answer>
-<Answer>34 Kilometer</Answer>
+<Question>**Um wie viele Kilometer verlängert sich die Strecke Siegen - Hagen, wenn ein LKW-Fahrer teilweise auf Bundes - und Landstraßen ausweichen muss?**</Question>
+<Answer correct>3 Kilometer</Answer>
+<Answer>8 Kilometer</Answer>
+<Answer>13 Kilometer</Answer>
+<Answer>18 Kilometer</Answer>
 <Result>
-Um **12 Kilometer**. Von der reinen Strecke klingt das nicht viel. Anteilig verlängert sich die Distanz aber um ein Fünftel. Dadurch, dass der LKW auf Bundes- und Landstraßen aber langsamer voran kommt, braucht der Fahrer statt 30 Minuten gut eine Stunde - vorausgesetzt es gibt keine Staus.
+Um **3 Kilometer**. Das klingt erst einmal nicht viel. Aber dadurch, dass der LKW vor Lüdenscheid ab- und einen Umweg fahren muss, verlängert sich die Fahrtzeit im besten Fall von 40 auf 55 Minuten. Im schlimmsten Fall braucht er mehr als doppelt so lange für die gesamte Strecke.
 </Result>
 </Quiz>
 
 #### Bier
-Je größer die Gütermengen sind, die sonst auf der A45 transportiert werden, desto mehr wirken sich die Verkehrsbehinderungen auf der Sauerlandlinie auf die einzelnen Unternehmen aus. Schon jetzt gaben zwei Drittel der Unternehmen, die an einer Umfrage der Südwestfälischen Industrie- und Handelskammer zu Hagen (SIHK) teilnahmen an, dass ihre Lieferketten durch die Sperrungen auf der A45 gestört seien. Unter anderem davon betroffen: Die fünftgrößte Bierbrauerei Deutschlands: Krombacher. Im Firmensitz in Kreuztal wurden im Jahr 2021 5,8 Millionen Hektoliter Bier gebraut. 
+Je größer die Gütermengen sind, die sonst auf der A45 transportiert werden, desto mehr wirken sich die Verkehrsbehinderungen auf der Sauerlandlinie auf die einzelnen Unternehmen aus. Schon jetzt gaben zwei Drittel der Unternehmen an, die an einer Umfrage der Südwestfälischen Industrie- und Handelskammer zu Hagen (SIHK) teilnahmen, dass ihre Lieferketten durch die Sperrungen auf der A45 gestört seien. Unter anderem davon betroffen ist die fünftgrößte Bierbrauerei Deutschlands: Krombacher. Am Firmensitz in Kreuztal wurden im Jahr 2021 5,8 Millionen Hektoliter Bier gebraut. 
 
 <Quiz>
 <QuizImage src="Krombacher.jpg" alt="Tausende Bierkästen stehen in einer Lagerhalle der Brauerei Krombacher, fotografiert von Karsten Schöne" />   
-<Question>**Wie viele Hektoliter Bier transportiert die Brauerei Krombacher pro Jahr über die A45?**</Question>
+<Question>**Wie viele Hektoliter Bier transportiert die Brauerei Krombacher pro Jahr über die A45 in NRW?**</Question>
 <Answer>0,5 Mio. Hektoliter</Answer>
 <Answer>1,5 Mio. Hektoliter</Answer>
 <Answer correct>2,5 Mio. Hektoliter</Answer>
@@ -148,7 +148,7 @@ Je größer die Gütermengen sind, die sonst auf der A45 transportiert werden, d
 </Quiz>
 
 #### Pendler
-Aber nicht nur für den Transport von Waren sind die Verkehrsbeeinträchtigungen an der A45 eine Katastrophe. Bei einer Umfrage der Südwestfälischen Industrie- und Handelskammer zu Hagen (SIHK) unter ihren Mitgliedern, gaben 76 Prozent der Unternehmen an, dass ihre Mitarbeiter nun “eine deutlich längere Anfahrtszeit” hätten. Kein Wunder: Viele Pendler nutzen die A45. 
+Aber nicht nur für den Transport von Waren sind die Verkehrsbeeinträchtigungen an der A45 eine große Belastung. Auch tausende Pendler nutzen die Sauerlandlinie. 
 
 <Quiz>
 <QuizImage src="Pendler.jpg" alt="Autos fahren auf der A45 in der Nähe der Ausfahrt Lüdenscheid Nord, fotografiert von Karsten Schöne" />   
@@ -158,7 +158,7 @@ Aber nicht nur für den Transport von Waren sind die Verkehrsbeeinträchtigungen
 <Answer>Mehr als 78.000</Answer>
 <Answer correct>Mehr als 88.000</Answer>
 <Result>
-**88.090 Menschen** pendelten im Jahr 2020 nur zwischen Gemeinden und Städten, die direkt an der A45 liegen. Allein nach Dortmund fuhren nach Daten des Pendleratlas NRW jeden Tag fast 24.000 Menschen. Natürlich sind nicht alle mit dem Auto auf der A45 unterwegs. Viele nutzen für kürzere Strecken auch Bundes- und Landstraßen oder den ÖPNV. Doch mit zunehmenden Verkehrsproblemen auf der Sauerlandlinie, wird es auch genau dort voller werden.
+**88.090 Menschen** pendelten im Jahr 2020 nur zwischen Gemeinden und Städten, die direkt an der A45 liegen. Allein nach Dortmund fuhren nach Daten des Pendleratlas NRW jeden Tag fast 24.000 Menschen. Natürlich sind nicht alle mit dem Auto auf der A45 unterwegs. Viele nutzen für kürzere Strecken auch Bundes- und Landstraßen oder den ÖPNV. Doch mit zunehmenden Verkehrsproblemen auf der Sauerlandlinie wird es dort noch voller werden.
 </Result>
 </Quiz>
 
