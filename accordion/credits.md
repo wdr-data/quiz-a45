@@ -9,7 +9,7 @@ Aufmacher-Bild: Mauritius Images / Hans Blossey
 6. Bild: dpa / Arnulf Stoffel
 7. Bild: WDR / Karsten Schöne
 8. Bild: WDR / Karsten Schöne
-9. Bild: WDR / Karsten Schöne
+   Grafik: WDR / Alina Bilkis
 
 ### Credits
 
