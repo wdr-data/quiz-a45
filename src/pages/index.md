@@ -58,7 +58,7 @@ Exakt **126 Kilometer** misst die Strecke zwischen dem Autobahnkreuz Dortmund-No
 Alle 60 großen Talbrücken an der A45 müssen abgerissen und neu gebaut werden.
 
 <Quiz>
-<QuizImage src="Siegtalbruecke.jpg" alt="Luftaufnahme der Siegtalbrücke Eiserfeld, fotografiert von Hans Blossey" />
+<QuizImage src="Siegtalbruecke.jpg" alt="Luftaufnahme der Siegtalbrücke Eiserfeld, fotografiert von Hans Blossey." />
 <Question>**Wie viele große Talbrücken stehen auf NRW-Gebiet?**</Question>
 <Answer>16 Brücken</Answer>
 <Answer>27 Brücken</Answer>
@@ -121,7 +121,7 @@ Auf insgesamt **4.641 Kilometern** staute sich im Jahr 2021 der Verkehr auf der 
 Gerade die Industrie in Südwestfalen hofft darauf, dass die Sanierung der A45 schnell voran geht. Schon seit der Sperrung der Rahmedetal-Brücke müssen LKW, die Güter in die Wirtschaftsregion liefern oder aus ihr abtransportieren, auf Bundes- und Landstraßen ausweichen.
 
 <Quiz>
-<QuizImage src="WDR-Bild_34850753.jpg" alt="Luftaufnahme eines Parkplatzes an der A45 bei Freudenberg, auf dem zahlreiche Lastwagen geparkt haben, fotografiert von Arnulf Stoffel" />   
+<QuizImage src="WDR-Bild_34850753.jpg" alt="Luftaufnahme eines Parkplatzes an der A45 bei Freudenberg, auf dem zahlreiche Lastwagen geparkt haben, fotografiert von Arnulf Stoffel." />   
 <Question>**Wie viele Sattelschlepper haben 2019 täglich die Anschlusstelle Freudenberg passiert?**</Question>
 <Answer>4.347 Sattelschlepper</Answer>
 <Answer>6.099 Sattelschlepper</Answer>
@@ -138,7 +138,7 @@ Will einer dieser Sattelschlepper von Siegen nach Hagen fahren, wären das auf d
 <Link title="Sperrung der A45-Brücke: Lüdenscheid erstickt im Verkehr" href="https://www1.wdr.de/nachrichten/westfalen-lippe/luedenscheid-erstickt-im-verkehr-100.html" />
 
 <Quiz>
-<QuizImage src="Schild.jpg" alt="Schilder und Verkehrsplanken stehen auf der A45 vor der der gesperrten Talbrücke Rahmede, fotografiert von Karsten Schöne" />   
+<QuizImage src="Schild.jpg" alt="Schilder und Verkehrsplanken stehen auf der A45 vor der der gesperrten Talbrücke Rahmede, fotografiert von Karsten Schöne." />   
 <Question>**Um wie viele Kilometer verlängert sich die Strecke Siegen - Hagen, wenn ein LKW-Fahrer teilweise auf Bundes - und Landstraßen ausweichen muss?**</Question>
 <Answer correct>3 Kilometer</Answer>
 <Answer>8 Kilometer</Answer>
@@ -153,7 +153,7 @@ Um **3 Kilometer**. Das klingt erst einmal nicht viel. Aber dadurch, dass der LK
 Je größer die Gütermengen sind, die sonst auf der A45 transportiert werden, desto mehr wirken sich die Verkehrsbehinderungen auf der Sauerlandlinie auf die einzelnen Unternehmen aus. Schon jetzt gaben zwei Drittel der Unternehmen an, die an einer Umfrage der Südwestfälischen Industrie- und Handelskammer zu Hagen (SIHK) teilnahmen, dass ihre Lieferketten durch die Sperrungen auf der A45 gestört seien. Unter anderem davon betroffen ist die fünftgrößte Bierbrauerei Deutschlands: Krombacher. Am Firmensitz in Kreuztal wurden im Jahr 2021 5,8 Millionen Hektoliter Bier gebraut. 
 
 <Quiz>
-<QuizImage src="Krombacher.jpg" alt="Tausende Bierkästen stehen in einer Lagerhalle der Brauerei Krombacher, fotografiert von Karsten Schöne" />   
+<QuizImage src="Krombacher.jpg" alt="Tausende Bierkästen stehen in einer Lagerhalle der Brauerei Krombacher, fotografiert von Karsten Schöne." />   
 <Question>**Wie viele Hektoliter Bier transportiert die Brauerei Krombacher pro Jahr über die A45 in NRW?**</Question>
 <Answer>0,5 Mio. Hektoliter</Answer>
 <Answer>1,5 Mio. Hektoliter</Answer>
@@ -168,7 +168,7 @@ Je größer die Gütermengen sind, die sonst auf der A45 transportiert werden, d
 Aber nicht nur für den Transport von Waren sind die Verkehrsbeeinträchtigungen an der A45 eine große Belastung. Auch tausende Pendler nutzen die Sauerlandlinie. 
 
 <Quiz>
-<QuizImage src="Autobahn.jpg" alt="Autos fahren auf der A45 in der Nähe der Ausfahrt Lüdenscheid Nord, fotografiert von Karsten Schöne" />   
+<QuizImage src="Autobahn.jpg" alt="Autos fahren auf der A45 in der Nähe der Ausfahrt Lüdenscheid Nord, fotografiert von Karsten Schöne." />   
 <Question>**Wie viele Menschen sind im Jahr 2020 täglich allein zwischen Gemeinden und Städten gependelt, die unmittelbar an der A45 liegen?**</Question>
 <Answer>Mehr als 58.000</Answer>
 <Answer>Mehr als 68.000</Answer>
