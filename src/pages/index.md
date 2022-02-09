@@ -100,6 +100,23 @@ Die richtige Antwort ist **Schwerte Wandhofen**. Durchschnittlich passierten 89.
 </Result>
 </Quiz>
 
+#### Stau
+Wo viele Fahrzeuge unterwegs sind, gibt es auch viele Staus. Im Jahr 2019 - also vor der Corona-Pandemie - summierten sich die Länge aller Staus auf der A45 auf 7.107 Kilometer. Im Jahr darauf reduzierte sich die Gesamtstaulänge vor allem wegen der Covid-Krise auf 3.313 Kilometer. 
+
+<Quiz>
+<QuizImage src="WDR-Bild_1860858.jpg" alt="" />   
+<Question>**Wie lang waren alle Staus zusammen, die es 2021 auf der Sauerlandlinie gab?**</Question>
+<Answer>2.987 Kilometer</Answer>
+<Answer>3.894 Kilometer</Answer>
+<Answer correct>4.641 Kilometer</Answer>
+<Answer>6.022 Kilometer</Answer>
+<Result>
+Auf insgesamt **4.641 Kilometern** staute sich im Jahr 2021 der Verkehr auf der A45.
+</Result>
+</Quiz>
+
+
+
 #### Sattelschlepper
 Gerade die Industrie in Südwestfalen hofft darauf, dass die neue A45 schnell fertig wird. Denn schon jetzt müssen die LKW, die Güter in die Wirtschaftsregion liefern oder aus ihr abtransportieren, auf Bundes- und Landstraßen ausweichen.
 
