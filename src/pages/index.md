@@ -26,11 +26,11 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 # A45-Quiz: So wichtig ist die Sauerlandlinie für ganz NRW
 
-Schlechte Nachrichten - nicht nur für Südwestfalen, sondern für ganz NRW: Alle 60 großen Talbrücken auf der A45 müssen in den kommenden Jahren ersetzt werden! Und damit kommt eine extreme Belastung für die Menschen und die Wirtschaft zu - nicht nur in Südwestfalen. 
+Schlechte Nachrichten - nicht nur für Südwestfalen, sondern für ganz NRW: Alle 60 großen Talbrücken auf der A45 müssen in den kommenden Jahren ersetzt werden. Und damit kommt eine extreme Belastung auf die Menschen und die Wirtschaft zu - nicht nur in Südwestfalen. 
 
 <Link title="An der A45 müssen alle 60 Brücken ersetzt werden" href="https://www1.wdr.de/nachrichten/bruecken-ersetzen-a45-sauerlandlinie-100.html" />
 
-Denn über die Sauerlandlinie rollen tagtäglich neben tausenden Pendler auch Waren und Güter. Sie werden entweder aus dem Ruhrgebiet in den Süden Deutschlands geliefert oder beispielsweise aus Südwestfalen zu den Binnenhäfen in NRW transportiert, wo sie ihre Reise in den Rest der Welt antreten.
+Denn über die Sauerlandlinie rollen tagtäglich neben tausenden Pendler auch Waren und Güter. Sie werden beispielsweise aus dem Ruhrgebiet in den Süden Deutschlands geliefert oder aus Südwestfalen zu den Binnenhäfen in NRW transportiert, wo sie ihre Reise in den Rest der Welt antreten.
 
 ## Wie gut kennen Sie die A45?
 
@@ -42,7 +42,7 @@ Viel Spaß beim Durchklicken und Quizzen!
 Über fast 257 Kilometer verläuft die Sauerlandlinie von Dortmund bis zum Seligenstädter Dreieck bei Aschaffenburg.
 
 <Quiz>
-<QuizImage src="Ueberblick.jpg" alt="Luftaufnahme der A45 bei Burbach im Hochsauerland, fotografiert von Hans Blossey" />
+<QuizImage src="Ueberblick.jpg" alt="Luftaufnahme der A45 bei Burbach im Hochsauerland, fotografiert von Hans Blossey." />
 <Question>**Wie viele Autobahnkilometer der A45 befinden sich in NRW?
 **</Question>
 <Answer>98 Kilometer</Answer>
@@ -70,12 +70,12 @@ Insgesamt stehen **38** der insgesamt 60 großen Talbrücken der Sauerlandlinie 
 </Quiz>
 
 #### Brückensprengung
-Für den Neubau der Brücken müssen die maroden Bauwerke erst einmal weg. Viele von ihnen sollen gesprengt werden - so wie die Talbrücke Rinsdorf Anfang Februar 2022. 120 Kilogramm Sprengstoff waren nötig, um die bislang höchsten gesprengte Brücke in Deutschland zum Einsturz zu bringen.
+Für den Neubau der Brücken müssen die maroden Bauwerke erst einmal weg. Viele von ihnen sollen gesprengt werden - so wie die Talbrücke Rinsdorf Anfang Februar 2022. 120 Kilogramm Sprengstoff waren nötig, um die bislang höchste gesprengte Brücke in Deutschland zum Einsturz zu bringen.
 
-<Link title="Autobahnbrücke Rahmede wird gesprengt" href="https://www1.wdr.de/nachrichten/autobahnbruecke-rahmede-wird-gesprengt-100.html" />
+<Link title="Sprengung der A45-Talbrücke Rinsdorf" href="https://www1.wdr.de/mediathek/av/video-sprengung-der-a-talbruecke-rinsdorf-102.html" />
 
 <Quiz>
-<QuizImage src="Sprengung.jpg" alt="Die Talbrücke Rinsdorf bricht nach der Sprengung in sich zusammen, fotografiert von Rene Traut" />
+<QuizImage src="Sprengung.jpg" alt="Die Talbrücke Rinsdorf bricht nach der Sprengung in sich zusammen, fotografiert von Rene Traut." />
 <Question>**Wie viele Löcher mussten in die Talbrücke Rinsdorf gebohrt werden, um den Sprengstoff an den richtigen Stellen zur Explosion zu bringen?**</Question>
 <Answer>940 Löcher</Answer>
 <Answer>1.080 Löcher</Answer>
@@ -89,29 +89,29 @@ Für den Neubau der Brücken müssen die maroden Bauwerke erst einmal weg. Viele
 #### Verkehrbelastung
 Welche Auswirkungen die Baumaßnahmen und die damit verbundenen Verkehrseinschränkungen haben werden, lässt sich am besten an der Zahl der Fahrzeuge ablesen, die täglich auf der A45 unterwegs sind.
 <Quiz>
-<QuizImage src="WDR-Bild_12184515.jpg" alt="Stau auf der A45 bei Hagen in Richtung Dortmund, fotografiert von Hans Blossey" />   
-<Question>**Wo wurden im Jahr 2019 die meisten Fahrzeuge gezählt?**</Question>
+<QuizImage src="WDR-Bild_12184515.jpg" alt="Stau auf der A45 bei Hagen in Richtung Dortmund, fotografiert von Hans Blossey." />   
+<Question>**Wo wurden im Jahr 2019 - also vor der Sperrung der Rahmede-Talbrücke bei Lüdenscheid - die meisten Fahrzeuge gezählt?**</Question>
 <Answer correct>Schwerte-Wandhofen </Answer>
 <Answer>Dortmund-Marten</Answer>
 <Answer>Lüdenscheid Nord</Answer>
 <Answer>Freudenberg</Answer>
 <Result>
-Die richtige Antwort ist **Schwerte Wandhofen**. Durchschnittlich passierten 89.545 Fahrzeuge täglich die dauerhaft eingerichtete Zählstelle von Straßen.NRW nahe dem Westhofener Kreuz.
+Die richtige Antwort ist **Schwerte-Wandhofen**. Durchschnittlich passierten 89.545 Fahrzeuge täglich die dauerhaft eingerichtete Zählstelle von Straßen.NRW nahe dem Westhofener Kreuz.
 </Result>
 </Quiz>
 
 #### Stau
-Wo viele Fahrzeuge unterwegs sind, gibt es auch viele Staus. Im Jahr 2019 - also vor der Corona-Pandemie - summierten sich die Länge aller Staus auf der A45 auf 7.107 Kilometer. Im Jahr darauf reduzierte sich die Gesamtstaulänge vor allem wegen der Covid-Krise auf 3.313 Kilometer. 
+Wo viele Fahrzeuge unterwegs sind, gibt es auch viele Staus. Im Jahr 2019 - also vor der Corona-Pandemie - summierten sich die Staus auf der A45 auf eine Gesamtlänge von 7.107 Kilometer. Zum Vergleich: Von Siegen nach Kathmandu in Nepal sind es Luftlinie 6.800 Kilometer. Im Jahr 2020 reduzierte sich die Gesamtstaulänge auf der Sauerlandlinie vor allem wegen der Covid-Krise auf 3.313 Kilometer.
 
 <Quiz>
-<QuizImage src="WDR-Bild_1860858.jpg" alt="Autos und Lastwagen stehen im Stau auf der A45 bei Dortmund, fotografiert von Bernd Thissen" />   
+<QuizImage src="WDR-Bild_1860858.jpg" alt="Autos und Lastwagen stehen im Stau auf der A45 bei Dortmund, fotografiert von Bernd Thissen." />   
 <Question>**Wie lang waren alle Staus zusammen, die es 2021 auf der Sauerlandlinie gab?**</Question>
 <Answer>2.987 Kilometer</Answer>
 <Answer>3.894 Kilometer</Answer>
 <Answer correct>4.641 Kilometer</Answer>
 <Answer>6.022 Kilometer</Answer>
 <Result>
-Auf insgesamt **4.641 Kilometern** staute sich im Jahr 2021 der Verkehr auf der "Königin der Autobahnen", wie die Sauleränder sie nennen.
+Auf insgesamt **4.641 Kilometern** staute sich im Jahr 2021 der Verkehr auf der "Königin der Autobahnen", wie die Sauerländer sie nennen.
 </Result>
 </Quiz>
 
