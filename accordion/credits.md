@@ -1,6 +1,7 @@
 ### Bildrechte:
 
 Aufmacher-Bild: Mauritius Images / Hans Blossey
+
 1. Bild: Imago Stock & People / Hans Blossey
 2. Bild: picture alliance / ZB/euroluftbild.de / Hans Blossey
 3. Bild: dpa / Rene Traut
@@ -13,5 +14,5 @@ Aufmacher-Bild: Mauritius Images / Hans Blossey
 
 ### Credits
 
-**Redaktion:** Axel Klauwer <br>
+**Redaktion:** Axel Klauwer <br/>
 **Programmierung:** Jannes Höke
