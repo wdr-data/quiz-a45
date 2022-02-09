@@ -26,7 +26,7 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 # A45-Quiz: So wichtig ist die Sauerlandlinie für ganz NRW
 
-Schlechte Nachrichten - nicht nur für Südwestfalen, sondern für ganz NRW: Alle 60 großen Talbrücken auf der A45 müssen in den kommenden Jahren ersetzt werden. Und damit kommt eine extreme Belastung auf die Menschen und die Wirtschaft zu - nicht nur in Südwestfalen. 
+Schlechte Nachrichten - nicht nur für Südwestfalen, sondern für ganz NRW: Nachdem die Rahmede-Talbrücke Anfang Dezember von heute auf morgen für den Verkehr gesperrt werden musste, weil sie so marode ist, dass kein Auto mehr darüber fahren darf, soll sie jetzt möglichst schnell abgerissen werden. Und nicht nur sie: Alle 60 großen Talbrücken auf der A45 müssen in den kommenden Jahren ersetzt werden. Und damit kommt eine extreme Belastung auf die Menschen und die Wirtschaft zu - nicht nur in Südwestfalen. 
 
 <Link title="An der A45 müssen alle 60 Brücken ersetzt werden" href="https://www1.wdr.de/nachrichten/bruecken-ersetzen-a45-sauerlandlinie-100.html" />
 
@@ -118,7 +118,7 @@ Auf insgesamt **4.641 Kilometern** staute sich im Jahr 2021 der Verkehr auf der 
 
 
 #### Sattelschlepper
-Gerade die Industrie in Südwestfalen hofft darauf, dass die Sanierung der A45 schnell voran geht. Schon seit der Sperrung der Rahmedetal-Brücke müssen LKW, die Güter in die Wirtschaftsregion liefern oder aus ihr abtransportieren, auf Bundes- und Landstraßen ausweichen.
+Gerade die Industrie in Südwestfalen hofft darauf, dass die Sanierung der A45 schnell voran geht. Seit der Sperrung der Rahmede-Talbrücke müssen Lkw auf Bundes- und Landstraßen ausweichen. Voll war es auf der Autobahn aber schon vorher.
 
 <Quiz>
 <QuizImage src="WDR-Bild_34850753.jpg" alt="Luftaufnahme eines Parkplatzes an der A45 bei Freudenberg, auf dem zahlreiche Lastwagen geparkt haben, fotografiert von Arnulf Stoffel." />   
@@ -128,24 +128,24 @@ Gerade die Industrie in Südwestfalen hofft darauf, dass die Sanierung der A45 s
 <Answer>7.893 Sattelschlepper</Answer>
 <Answer correct>9.209 Sattelschlepper</Answer>
 <Result>
-**9.209 Sattelschlepper** passierten nach Informationen von Straßen.NRW 2019 im Durchschnitt jeden Tag die Anschlusstelle Freudenberg. Dabei wurden Sonn- und Feiertage mitgerechnet, also Tage, an denen LKW nur mit einer Sondergenehmigung fahren dürfen. Die Belastung an Werktagen war daher vermutlich noch wesentlich höher.
+**9.209 Sattelschlepper** passierten nach Informationen von Straßen.NRW 2019 im Durchschnitt jeden Tag die Anschlusstelle Freudenberg. Dabei wurden Sonn- und Feiertage mitgerechnet, also Tage, an denen Lkw nur mit einer Sondergenehmigung fahren dürfen. Die Belastung an Werktagen war daher vermutlich noch wesentlich höher.
 </Result>
 </Quiz>
 
 #### Umwege
-Will einer dieser Sattelschlepper von Siegen nach Hagen fahren, wären das auf der Sauerlandlinie von Anschlussstelle zu Anschlussstelle 74 km. Da die Talbrücke Rahmede derzeit aber gesperrt ist und bald abgerissen werden soll, muss der Fahrer oder die Fahrerin Teile der Strecke über Bundes- und Landstraßen zurücklegen.
+Will einer dieser Sattelschlepper von Siegen nach Hagen fahren, wären das auf der Sauerlandlinie von Anschlussstelle zu Anschlussstelle 74 Kilometer. Da die Talbrücke Rahmede derzeit aber gesperrt ist und bald abgerissen werden soll, muss der Fahrer oder die Fahrerin Teile der Strecke über Bundes- und Landstraßen zurücklegen.
 
 <Link title="Sperrung der A45-Brücke: Lüdenscheid erstickt im Verkehr" href="https://www1.wdr.de/nachrichten/westfalen-lippe/luedenscheid-erstickt-im-verkehr-100.html" />
 
 <Quiz>
 <QuizImage src="Schild.jpg" alt="Schilder und Verkehrsplanken stehen auf der A45 vor der der gesperrten Talbrücke Rahmede, fotografiert von Karsten Schöne." />   
-<Question>**Um wie viele Kilometer verlängert sich die Strecke Siegen - Hagen, wenn ein LKW-Fahrer teilweise auf Bundes - und Landstraßen ausweichen muss?**</Question>
+<Question>**Um wie viele Kilometer verlängert sich die Strecke Siegen - Hagen, wenn ein Lkw-Fahrer teilweise auf Bundes - und Landstraßen ausweichen muss?**</Question>
 <Answer correct>3 Kilometer</Answer>
 <Answer>8 Kilometer</Answer>
 <Answer>13 Kilometer</Answer>
 <Answer>18 Kilometer</Answer>
 <Result>
-Um **3 Kilometer**. Das klingt erst einmal nicht viel. Aber dadurch, dass der LKW vor Lüdenscheid ab- und einen Umweg fahren muss, verlängert sich die Fahrtzeit im besten Fall von 40 auf 55 Minuten. Im schlimmsten Fall braucht er mehr als doppelt so lange für die gesamte Strecke.
+Um **3 Kilometer**. Das klingt erst einmal nicht viel. Aber dadurch, dass der Lkw vor Lüdenscheid ab- und einen Umweg fahren muss, verlängert sich die Fahrtzeit im besten Fall von 40 auf 55 Minuten. Im schlimmsten Fall braucht er mehr als doppelt so lange für die gesamte Strecke.
 </Result>
 </Quiz>
 
