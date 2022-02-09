@@ -197,10 +197,10 @@ images={{
            
 }}
 texts={{
-    0: "Okay, Sie wissen zumindest, dass es die A45 gibt, das ist ja schonmal ein Anfang - aber ausbaufähig. Machen Sie das Quiz doch noch einmal!",
+     0: "Okay, Sie wissen zumindest, dass es die A45 gibt, das ist ja schonmal ein Anfang - aber ausbaufähig. Machen Sie das Quiz doch noch einmal!",
      3: "Nicht schlecht. Die Sauerlandlinie ist Ihnen ein Begriff. Sie sind wohl häufiger auf der A45 zwischen Dortmund und Burbach unterwegs. Aber kann es sein, dass Sie bis jetzt noch nirgendwo abgefahren sind?",
      6: "Das war richtig gut! Sie haben sich offenbar schon näher mit der Region rund um die 'Königin der Autobahnen' beschäftigt. Ein bisschen Luft nach oben gibt's aber noch.",      
-    9: "Respekt! Was die A45 angeht, sind Sie ein wahrer Experte. Wohnen Sie vielleicht sogar direkt an der Sauerlandlinie?",
+     9: "Respekt! Was die A45 angeht, sind Sie ein wahrer Experte. Wohnen Sie vielleicht sogar direkt an der Sauerlandlinie?",
 }}
 />
 
