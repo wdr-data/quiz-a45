@@ -4,7 +4,7 @@ description: 'A45-Quiz: So wichtig ist die Sauerlandlinie für ganz NRW'
 author: Jörn Kießler
 pub_date: '2022-02-10'
 heroImage: 'WDR-Bild_246067.jpg'
-heroAlt: 'Blick auf die Talbrücke Beustenbach im Sauerland, fotografiert von Hans Blossey'
+heroAlt: 'Blick auf die Talbrücke Beustenbach im Sauerland, fotografiert von Hans Blossey.'
 heroCredit: ''
 sharingImageFacebook: 'Teaser.jpg'
 sharingImageTwitter: 'Teaser.jpg'
@@ -26,7 +26,7 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 # A45-Quiz: So wichtig ist die Sauerlandlinie für ganz NRW
 
-Schlechte Nachrichten - nicht nur für Südwestfalen, sondern für ganz NRW: Nachdem die Rahmede-Talbrücke Anfang Dezember von heute auf morgen für den Verkehr gesperrt werden musste, weil sie so marode ist, dass kein Auto mehr darüber fahren darf, soll sie jetzt möglichst schnell abgerissen werden. 
+Schlechte Nachrichten - nicht nur für Südwestfalen, sondern für ganz NRW: Anfang Dezember wurde die marode Rahmede-Talbrücke bei Lüdenscheid von heute auf morgen für den Verkehr gesperrt. Jetzt soll sie möglichst schnell abgerissen werden. 
 
 <Link title="Fragen und Antworten zur A45-Rahmede-Talbrücke" href="https://www1.wdr.de/nachrichten/westfalen-lippe/fragen-und-antworten-zur-A45-und-rahmedetalbruecke-100.html" />
 
@@ -149,7 +149,7 @@ Will einer dieser Sattelschlepper von Siegen nach Hagen fahren, wären das auf d
 <Answer>13 Kilometer</Answer>
 <Answer>18 Kilometer</Answer>
 <Result>
-Um **3 Kilometer**. Das klingt erst einmal nicht viel. Aber dadurch, dass der Lkw vor Lüdenscheid ab- und einen Umweg fahren muss, verlängert sich die Fahrtzeit im besten Fall von 40 auf 55 Minuten. Im schlimmsten Fall braucht er mehr als doppelt so lange für die gesamte Strecke.
+Um **3 Kilometer**. Das hört sich erst einmal harmlos an. Aber dadurch, dass der Lkw vor Lüdenscheid ab- und einen Umweg fahren muss, verlängert sich die Fahrtzeit im besten Fall von 40 auf 55 Minuten. Im schlimmsten Fall braucht er mehr als doppelt so lange für die gesamte Strecke von Siegen nach Hagen.
 </Result>
 </Quiz>
 
@@ -164,7 +164,7 @@ Je größer die Gütermengen sind, die sonst auf der A45 transportiert werden, d
 <Answer correct>2,5 Mio. Hektoliter</Answer>
 <Answer>3,5 Mio. Hektoliter</Answer>
 <Result>
-**2,5 Millionen Hektoliter** Braugut werden laut Krombacher jedes Jahr über die A45 in Richtung Norden transportiert. Mit dieser Biermenge könnte man 100 olympische 50-Meter-Schwimmbecken füllen. Dazu kommt, dass unzählige Mehrwegflaschen, -kästen und -fässer auch wieder zurück ins Siegerland gebracht werden müssen. Aufgrund der Sperrungen auf der Sauerlandlinie rechnet Krombacher in den kommenden Jahren "mit jährlichen Zusatzaufwendungen im einstelligen Millionenbereich", so das Unternehmen.
+**2,5 Millionen Hektoliter** Braugut werden laut Krombacher jedes Jahr über die A45 in Richtung Norden transportiert. Mit dieser Biermenge könnte man 100 olympische 50-Meter-Schwimmbecken füllen. Dazu kommt, dass unzählige Mehrwegflaschen, -kästen und -fässer auch wieder zurück ins Siegerland gebracht werden müssen. Aufgrund der Sperrungen auf der Sauerlandlinie rechnet Krombacher für die kommenden Jahren "mit jährlichen Zusatzaufwendungen im einstelligen Millionenbereich", so das Unternehmen.
 </Result>
 </Quiz>
 
