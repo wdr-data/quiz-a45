@@ -187,8 +187,8 @@ Aber nicht nur für den Transport von Waren sind die Verkehrsbeeinträchtigungen
 <QuizScore
 images={{
     0: "Sprengung.jpg",
-    3: "WDR-Bild_41897031.jpg",
-    6: "WDR-Bild_258985.jpg",      
+    3: "Schild.jpg",
+    6: "WDR-Bild_41897031.jpg",      
     9: "WDR-Bild_258985.jpg",
            
 }}
