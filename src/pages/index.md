@@ -118,7 +118,7 @@ Auf insgesamt **4.641 Kilometern** staute sich im Jahr 2021 der Verkehr auf der 
 
 
 #### Sattelschlepper
-Gerade die Industrie in Südwestfalen hofft darauf, dass die neue A45 schnell fertig wird. Denn schon jetzt müssen die LKW, die Güter in die Wirtschaftsregion liefern oder aus ihr abtransportieren, auf Bundes- und Landstraßen ausweichen.
+Gerade die Industrie in Südwestfalen hofft darauf, dass die Sanierung der A45 schnell voran geht. Schon seit der Sperrung der Rahmedetal-Brücke müssen LKW, die Güter in die Wirtschaftsregion liefern oder aus ihr abtransportieren, auf Bundes- und Landstraßen ausweichen.
 
 <Quiz>
 <QuizImage src="WDR-Bild_34850753.jpg" alt="Luftaufnahme eines Parkplatzes an der A45 bei Freudenberg, auf dem zahlreiche Lastwagen geparkt haben, fotografiert von Arnulf Stoffel" />   
