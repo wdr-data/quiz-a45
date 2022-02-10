@@ -126,7 +126,7 @@ Auf insgesamt **4.641 Kilometern** staute sich im Jahr 2021 der Verkehr auf der 
 
 #### Sattelschlepper
 
-Gerade die Industrie in Südwestfalen hofft darauf, dass die Sanierung der A45 schnell voran geht. Seit der Sperrung der Rahmede-Talbrücke müssen Lkw auf Bundes- und Landstraßen ausweichen. Voll war es auf der Autobahn aber schon vorher.
+Gerade die Industrie in Südwestfalen hofft darauf, dass die Sanierung der A45 schnell vorangeht. Seit der Sperrung der Rahmede-Talbrücke müssen Lkw auf Bundes- und Landstraßen ausweichen. Voll war es auf der Autobahn aber schon vorher.
 
 <Quiz>
 <QuizImage src="WDR-Bild_34850753.webp" alt="Luftaufnahme eines Parkplatzes an der A45 bei Freudenberg, auf dem zahlreiche Lastwagen geparkt haben, fotografiert von Arnulf Stoffel." />
