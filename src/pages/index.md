@@ -26,11 +26,11 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 # A45-Quiz: So wichtig ist die Sauerlandlinie für ganz NRW
 
-Schlechte Nachrichten - nicht nur für Südwestfalen, sondern für ganz NRW: Anfang Dezember wurde die marode Rahmede-Talbrücke bei Lüdenscheid von heute auf morgen für den Verkehr gesperrt. Jetzt soll sie möglichst schnell abgerissen werden. 
+Schlechte Nachrichten - nicht nur für Südwestfalen, sondern für ganz NRW: Anfang Dezember wurde die marode Rahmede-Talbrücke bei Lüdenscheid von heute auf morgen für den Verkehr gesperrt. Jetzt soll sie möglichst schnell abgerissen werden.
 
 <Link title="Fragen und Antworten zur A45-Rahmede-Talbrücke" href="https://www1.wdr.de/nachrichten/westfalen-lippe/fragen-und-antworten-zur-A45-und-rahmedetalbruecke-100.html" />
 
-Und nicht nur sie: Alle 60 großen Talbrücken auf der A45 müssen in den kommenden Jahren ersetzt werden. Und damit kommt eine extreme Belastung auf die Menschen und die Wirtschaft zu - nicht nur in Südwestfalen. 
+Und nicht nur sie: Alle 60 großen Talbrücken auf der A45 müssen in den kommenden Jahren ersetzt werden. Und damit kommt eine extreme Belastung auf die Menschen und die Wirtschaft zu - nicht nur in Südwestfalen.
 
 <Link title="An der A45 müssen alle 60 Brücken ersetzt werden" href="https://www1.wdr.de/nachrichten/bruecken-ersetzen-a45-sauerlandlinie-100.html" />
 
@@ -38,15 +38,16 @@ Denn über die Sauerlandlinie rollen tagtäglich neben tausenden Pendler auch Wa
 
 <Link title="A45: Die dauergesperrte Autobahn" href="https://www1.wdr.de/autobahn-sperrung-bruecke-100.html" />
 
-Mit dem A45-Quiz finden Sie heraus, wie gut Sie die  Sauerlandlinie kennen, was sie über Südwestfalen wissen und warum die Verkehrsbehinderungen nicht nur Anwohner und Wirtschaft in der Region treffen.
+Mit dem A45-Quiz finden Sie heraus, wie gut Sie die Sauerlandlinie kennen, was sie über Südwestfalen wissen und warum die Verkehrsbehinderungen nicht nur Anwohner und Wirtschaft in der Region treffen.
 
 Viel Spaß beim Durchklicken und Quizzen!
 
 #### Autobahnkilometer in NRW
+
 Über fast 257 Kilometer verläuft die Sauerlandlinie von Dortmund bis zum Seligenstädter Dreieck bei Aschaffenburg.
 
 <Quiz>
-<QuizImage src="Ueberblick.jpg" alt="Luftaufnahme der A45 bei Burbach im Hochsauerland, fotografiert von Hans Blossey." />
+<QuizImage src="Ueberblick.webp" alt="Luftaufnahme der A45 bei Burbach im Hochsauerland, fotografiert von Hans Blossey." />
 <Question>**Wie viele Autobahnkilometer der A45 befinden sich in NRW?
 **</Question>
 <Answer>98 Kilometer</Answer>
@@ -59,10 +60,11 @@ Exakt **126 Kilometer** misst die Strecke zwischen dem Autobahnkreuz Dortmund-No
 </Quiz>
 
 #### Brücken in NRW
+
 Alle 60 großen Talbrücken an der A45 müssen abgerissen und neu gebaut werden.
 
 <Quiz>
-<QuizImage src="Siegtalbruecke.jpg" alt="Luftaufnahme der Siegtalbrücke Eiserfeld, fotografiert von Hans Blossey." />
+<QuizImage src="Siegtalbruecke.webp" alt="Luftaufnahme der Siegtalbrücke Eiserfeld, fotografiert von Hans Blossey." />
 <Question>**Wie viele große Talbrücken stehen auf NRW-Gebiet?**</Question>
 <Answer>16 Brücken</Answer>
 <Answer>27 Brücken</Answer>
@@ -74,26 +76,28 @@ Insgesamt stehen **38** der insgesamt 60 großen Talbrücken der Sauerlandlinie 
 </Quiz>
 
 #### Brückensprengung
+
 Für den Neubau der Brücken müssen die maroden Bauwerke erst einmal weg. Viele von ihnen sollen gesprengt werden - so wie die Talbrücke Rinsdorf Anfang Februar 2022. 120 Kilogramm Sprengstoff waren nötig, um die bislang höchste gesprengte Brücke in Deutschland zum Einsturz zu bringen.
 
 <Link title="Sprengung der A45-Talbrücke Rinsdorf" href="https://www1.wdr.de/mediathek/av/video-sprengung-der-a-talbruecke-rinsdorf-102.html" />
 
 <Quiz>
-<QuizImage src="Sprengung.jpg" alt="Die Talbrücke Rinsdorf bricht nach der Sprengung in sich zusammen, fotografiert von Rene Traut." />
+<QuizImage src="Sprengung.webp" alt="Die Talbrücke Rinsdorf bricht nach der Sprengung in sich zusammen, fotografiert von Rene Traut." />
 <Question>**Wie viele Löcher mussten in die Talbrücke Rinsdorf gebohrt werden, um den Sprengstoff an den richtigen Stellen zur Explosion zu bringen?**</Question>
 <Answer>940 Löcher</Answer>
 <Answer>1.080 Löcher</Answer>
 <Answer correct>1.850 Löcher</Answer>
 <Answer>2.300 Löcher</Answer>
 <Result>
-**1.850 Bohrlöcher** waren nötig, um die mehr als 70 Meter hohe und 485 Meter lange Brücke zu sprengen. 
+**1.850 Bohrlöcher** waren nötig, um die mehr als 70 Meter hohe und 485 Meter lange Brücke zu sprengen.
 </Result>
 </Quiz>
 
 #### Verkehrbelastung
+
 Welche Auswirkungen die Baumaßnahmen und die damit verbundenen Verkehrseinschränkungen haben werden, lässt sich am besten an der Zahl der Fahrzeuge ablesen, die täglich auf der A45 unterwegs sind.
 <Quiz>
-<QuizImage src="WDR-Bild_12184515.jpg" alt="Stau auf der A45 bei Hagen in Richtung Dortmund, fotografiert von Hans Blossey." />   
+<QuizImage src="WDR-Bild_12184515.webp" alt="Stau auf der A45 bei Hagen in Richtung Dortmund, fotografiert von Hans Blossey." />
 <Question>**Wo wurden im Jahr 2019 - also vor der Sperrung der Rahmede-Talbrücke bei Lüdenscheid - die meisten Fahrzeuge gezählt?**</Question>
 <Answer correct>Schwerte-Wandhofen </Answer>
 <Answer>Dortmund-Marten</Answer>
@@ -105,10 +109,11 @@ Die richtige Antwort ist **Schwerte-Wandhofen**. Durchschnittlich passierten 89.
 </Quiz>
 
 #### Stau
+
 Wo viele Fahrzeuge unterwegs sind, gibt es auch viele Staus. Im Jahr 2019 - also vor der Corona-Pandemie - summierten sich die Staus auf der A45 auf eine Gesamtlänge von 7.107 Kilometer. Zum Vergleich: Von Siegen nach Kathmandu in Nepal sind es Luftlinie 6.800 Kilometer. Im Jahr 2020 reduzierte sich die Gesamtstaulänge auf der Sauerlandlinie vor allem wegen der Covid-Krise auf 3.313 Kilometer.
 
 <Quiz>
-<QuizImage src="WDR-Bild_1860858.jpg" alt="Autos und Lastwagen stehen im Stau auf der A45 bei Dortmund, fotografiert von Bernd Thissen." />   
+<QuizImage src="WDR-Bild_1860858.webp" alt="Autos und Lastwagen stehen im Stau auf der A45 bei Dortmund, fotografiert von Bernd Thissen." />
 <Question>**Wie lang waren alle Staus zusammen, die es 2021 auf der Sauerlandlinie gab?**</Question>
 <Answer>2.987 Kilometer</Answer>
 <Answer>3.894 Kilometer</Answer>
@@ -119,13 +124,12 @@ Auf insgesamt **4.641 Kilometern** staute sich im Jahr 2021 der Verkehr auf der 
 </Result>
 </Quiz>
 
-
-
 #### Sattelschlepper
+
 Gerade die Industrie in Südwestfalen hofft darauf, dass die Sanierung der A45 schnell voran geht. Seit der Sperrung der Rahmede-Talbrücke müssen Lkw auf Bundes- und Landstraßen ausweichen. Voll war es auf der Autobahn aber schon vorher.
 
 <Quiz>
-<QuizImage src="WDR-Bild_34850753.jpg" alt="Luftaufnahme eines Parkplatzes an der A45 bei Freudenberg, auf dem zahlreiche Lastwagen geparkt haben, fotografiert von Arnulf Stoffel." />   
+<QuizImage src="WDR-Bild_34850753.webp" alt="Luftaufnahme eines Parkplatzes an der A45 bei Freudenberg, auf dem zahlreiche Lastwagen geparkt haben, fotografiert von Arnulf Stoffel." />
 <Question>**Wie viele Sattelschlepper haben 2019 täglich die Anschlusstelle Freudenberg passiert?**</Question>
 <Answer>4.347 Sattelschlepper</Answer>
 <Answer>6.099 Sattelschlepper</Answer>
@@ -137,12 +141,13 @@ Gerade die Industrie in Südwestfalen hofft darauf, dass die Sanierung der A45 s
 </Quiz>
 
 #### Umwege
+
 Will einer dieser Sattelschlepper von Siegen nach Hagen fahren, wären das auf der Sauerlandlinie von Anschlussstelle zu Anschlussstelle 74 Kilometer. Da die Talbrücke Rahmede derzeit aber gesperrt ist und bald abgerissen werden soll, muss der Fahrer oder die Fahrerin Teile der Strecke über Bundes- und Landstraßen zurücklegen.
 
 <Link title="Sperrung der A45-Brücke: Lüdenscheid erstickt im Verkehr" href="https://www1.wdr.de/nachrichten/westfalen-lippe/luedenscheid-erstickt-im-verkehr-100.html" />
 
 <Quiz>
-<QuizImage src="Schild.jpg" alt="Schilder und Verkehrsplanken stehen auf der A45 vor der der gesperrten Talbrücke Rahmede, fotografiert von Karsten Schöne." />   
+<QuizImage src="Schild.webp" alt="Schilder und Verkehrsplanken stehen auf der A45 vor der der gesperrten Talbrücke Rahmede, fotografiert von Karsten Schöne." />
 <Question>**Um wie viele Kilometer verlängert sich die Strecke Siegen - Hagen, wenn ein Lkw-Fahrer teilweise auf Bundes - und Landstraßen ausweichen muss?**</Question>
 <Answer correct>3 Kilometer</Answer>
 <Answer>8 Kilometer</Answer>
@@ -154,10 +159,11 @@ Um **3 Kilometer**. Das hört sich erst einmal harmlos an. Aber dadurch, dass de
 </Quiz>
 
 #### Bier
-Je größer die Gütermengen sind, die sonst auf der A45 transportiert werden, desto mehr wirken sich die Verkehrsbehinderungen auf der Sauerlandlinie auf die einzelnen Unternehmen aus. Schon jetzt gaben zwei Drittel der Unternehmen an, die an einer Umfrage der Südwestfälischen Industrie- und Handelskammer zu Hagen (SIHK) teilnahmen, dass ihre Lieferketten durch die Sperrungen auf der A45 gestört seien. Unter anderem davon betroffen ist die fünftgrößte Bierbrauerei Deutschlands: Krombacher. Am Firmensitz in Kreuztal wurden im Jahr 2021 5,8 Millionen Hektoliter Bier gebraut. 
+
+Je größer die Gütermengen sind, die sonst auf der A45 transportiert werden, desto mehr wirken sich die Verkehrsbehinderungen auf der Sauerlandlinie auf die einzelnen Unternehmen aus. Schon jetzt gaben zwei Drittel der Unternehmen an, die an einer Umfrage der Südwestfälischen Industrie- und Handelskammer zu Hagen (SIHK) teilnahmen, dass ihre Lieferketten durch die Sperrungen auf der A45 gestört seien. Unter anderem davon betroffen ist die fünftgrößte Bierbrauerei Deutschlands: Krombacher. Am Firmensitz in Kreuztal wurden im Jahr 2021 5,8 Millionen Hektoliter Bier gebraut.
 
 <Quiz>
-<QuizImage src="Krombacher.jpg" alt="Tausende Bierkästen stehen in einer Lagerhalle der Brauerei Krombacher, fotografiert von Karsten Schöne." />   
+<QuizImage src="Krombacher.webp" alt="Tausende Bierkästen stehen in einer Lagerhalle der Brauerei Krombacher, fotografiert von Karsten Schöne." />
 <Question>**Wie viele Hektoliter Bier transportiert die Brauerei Krombacher pro Jahr über die A45 in NRW?**</Question>
 <Answer>0,5 Mio. Hektoliter</Answer>
 <Answer>1,5 Mio. Hektoliter</Answer>
@@ -169,10 +175,11 @@ Je größer die Gütermengen sind, die sonst auf der A45 transportiert werden, d
 </Quiz>
 
 #### Pendler
-Aber nicht nur für den Transport von Waren sind die Verkehrsbeeinträchtigungen an der A45 eine große Belastung. Auch tausende Pendler nutzen die Sauerlandlinie. 
+
+Aber nicht nur für den Transport von Waren sind die Verkehrsbeeinträchtigungen an der A45 eine große Belastung. Auch tausende Pendler nutzen die Sauerlandlinie.
 
 <Quiz>
-<QuizImage src="Autobahn.jpg" alt="Eine Grafik zeigt alle Gemeinden und Städte, die unmittelbar an die A45 angrenzen." />   
+<QuizImage src="Autobahn.webp" alt="Eine Grafik zeigt alle Gemeinden und Städte, die unmittelbar an die A45 angrenzen." />
 <Question>**Wie viele Menschen sind im Jahr 2020 täglich allein zwischen Gemeinden und Städten gependelt, die unmittelbar an der A45 liegen?**</Question>
 <Answer>Mehr als 58.000</Answer>
 <Answer>Mehr als 68.000</Answer>
@@ -183,24 +190,18 @@ Aber nicht nur für den Transport von Waren sind die Verkehrsbeeinträchtigungen
 </Result>
 </Quiz>
 
-
-
-
-
-
 <QuizScore
 images={{
-    0: "Sprengung.jpg",
-    3: "Schild.jpg",
-    6: "WDR-Bild_41897031.jpg",      
-    9: "WDR-Bild_258985.jpg",
-           
+0: "Sprengung.webp",
+3: "Schild.webp",
+6: "WDR-Bild_41897031.webp",
+9: "WDR-Bild_258985.webp",
 }}
 texts={{
-     0: "Okay, Sie wissen zumindest, dass es die A45 gibt, das ist ja schonmal ein Anfang - aber ausbaufähig. Machen Sie das Quiz doch noch einmal!",
-     3: "Nicht schlecht. Die Sauerlandlinie ist Ihnen ein Begriff. Sie sind wohl häufiger auf der A45 zwischen Dortmund und Burbach unterwegs. Aber kann es sein, dass Sie bis jetzt noch nirgendwo abgefahren sind?",
-     6: "Das war richtig gut! Sie haben sich offenbar schon näher mit der Region rund um die 'Königin der Autobahnen' beschäftigt. Ein bisschen Luft nach oben gibt's aber noch.",      
-     9: "Respekt! Was die A45 angeht, sind Sie ein wahrer Experte. Wohnen Sie vielleicht sogar direkt an der Sauerlandlinie?",
+0: "Okay, Sie wissen zumindest, dass es die A45 gibt, das ist ja schonmal ein Anfang - aber ausbaufähig. Machen Sie das Quiz doch noch einmal!",
+3: "Nicht schlecht. Die Sauerlandlinie ist Ihnen ein Begriff. Sie sind wohl häufiger auf der A45 zwischen Dortmund und Burbach unterwegs. Aber kann es sein, dass Sie bis jetzt noch nirgendwo abgefahren sind?",
+6: "Das war richtig gut! Sie haben sich offenbar schon näher mit der Region rund um die 'Königin der Autobahnen' beschäftigt. Ein bisschen Luft nach oben gibt's aber noch.",
+9: "Respekt! Was die A45 angeht, sind Sie ein wahrer Experte. Wohnen Sie vielleicht sogar direkt an der Sauerlandlinie?",
 }}
 />
 
