@@ -93,7 +93,7 @@ Für den Neubau der Brücken müssen die maroden Bauwerke erst einmal weg. Viele
 </Result>
 </Quiz>
 
-#### Verkehrbelastung
+#### Verkehrsbelastung
 
 Welche Auswirkungen die Baumaßnahmen und die damit verbundenen Verkehrseinschränkungen haben werden, lässt sich am besten an der Zahl der Fahrzeuge ablesen, die täglich auf der A45 unterwegs sind.
 <Quiz>
@@ -130,13 +130,13 @@ Gerade die Industrie in Südwestfalen hofft darauf, dass die Sanierung der A45 s
 
 <Quiz>
 <QuizImage src="WDR-Bild_34850753.webp" alt="Luftaufnahme eines Parkplatzes an der A45 bei Freudenberg, auf dem zahlreiche Lastwagen geparkt haben, fotografiert von Arnulf Stoffel." />
-<Question>**Wie viele Sattelschlepper haben 2019 täglich die Anschlusstelle Freudenberg passiert?**</Question>
+<Question>**Wie viele Sattelschlepper haben 2019 täglich die Anschlussstelle Freudenberg passiert?**</Question>
 <Answer>4.347 Sattelschlepper</Answer>
 <Answer>6.099 Sattelschlepper</Answer>
 <Answer>7.893 Sattelschlepper</Answer>
 <Answer correct>9.209 Sattelschlepper</Answer>
 <Result>
-**9.209 Sattelschlepper** passierten nach Informationen von Straßen.NRW 2019 im Durchschnitt jeden Tag die Anschlusstelle Freudenberg. Dabei wurden Sonn- und Feiertage mitgerechnet, also Tage, an denen Lkw nur mit einer Sondergenehmigung fahren dürfen. Die Belastung an Werktagen war daher vermutlich noch wesentlich höher.
+**9.209 Sattelschlepper** passierten nach Informationen von Straßen.NRW 2019 im Durchschnitt jeden Tag die Anschlussstelle Freudenberg. Dabei wurden Sonn- und Feiertage mitgerechnet, also Tage, an denen Lkw nur mit einer Sondergenehmigung fahren dürfen. Die Belastung an Werktagen war daher vermutlich noch wesentlich höher.
 </Result>
 </Quiz>
 
@@ -170,7 +170,7 @@ Je größer die Gütermengen sind, die sonst auf der A45 transportiert werden, d
 <Answer correct>2,5 Mio. Hektoliter</Answer>
 <Answer>3,5 Mio. Hektoliter</Answer>
 <Result>
-**2,5 Millionen Hektoliter** Braugut werden laut Krombacher jedes Jahr über die A45 in Richtung Norden transportiert. Mit dieser Biermenge könnte man 100 olympische 50-Meter-Schwimmbecken füllen. Dazu kommt, dass unzählige Mehrwegflaschen, -kästen und -fässer auch wieder zurück ins Siegerland gebracht werden müssen. Aufgrund der Sperrungen auf der Sauerlandlinie rechnet Krombacher für die kommenden Jahren "mit jährlichen Zusatzaufwendungen im einstelligen Millionenbereich", so das Unternehmen.
+**2,5 Millionen Hektoliter** Braugut werden laut Krombacher jedes Jahr über die A45 in Richtung Norden transportiert. Mit dieser Biermenge könnte man 100 olympische 50-Meter-Schwimmbecken füllen. Dazu kommt, dass unzählige Mehrwegflaschen, -kästen und -fässer auch wieder zurück ins Siegerland gebracht werden müssen. Aufgrund der Sperrungen auf der Sauerlandlinie rechnet Krombacher für die kommenden Jahre "mit jährlichen Zusatzaufwendungen im einstelligen Millionenbereich", so das Unternehmen.
 </Result>
 </Quiz>
 
